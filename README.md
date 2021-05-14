@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello Friend! 👋
 
-- 🔭 I’m currently a Computer Science undergraduate at the National University of Singapore.
+- 🔭 I’m Allard, a Computer Science undergraduate at the National University of Singapore.
 - 🌱 Interested in Web Development, Machine Learning and more!
 - ⚡ Fun fact: I love football, classical music and good food!
 
