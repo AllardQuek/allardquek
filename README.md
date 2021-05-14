@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently a Computer Science undergraduate at the National University of Singapore.
-- 🌱 I’m interested in Web Development and Machine Learning and am excited to work on such related projects
-- 📫 How to reach me: Visit my website [here](https://allardquek.github.io/)!
+- 🌱 Interested in Web Development, Machine Learning and more!
 - ⚡ Fun fact: I love football, classical music and good food!
 
 <!--
@@ -16,6 +15,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
+- 📫 How to reach me: Visit my website [here](https://allardquek.github.io/)!
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
