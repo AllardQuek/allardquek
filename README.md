@@ -1,10 +1,10 @@
 ### Hello Friend! 👋
 
-🔭 - I’m Allard, a Computer Science undergraduate at the National University of Singapore.
+🔭  I’m Allard, a Computer Science undergraduate at the National University of Singapore.
 
-🌱 - Interested in Web Development, Machine Learning and more!
+🌱  Interested in Web Development, Machine Learning and more!
 
-⚡ - Fun fact: I love football, classical music and good food!
+⚡  Fun fact: I love football, classical music and good food!
 
 <!--
 **AllardQuek/allardquek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
