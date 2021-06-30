@@ -1,4 +1,4 @@
-### Hello Friend! 👋
+# Hello Friend! 👋
 
 🔭 I’m Allard, a Computer Science undergraduate at the National University of Singapore.
 
@@ -6,11 +6,25 @@
 
 ⚡ Fun fact: I love football, classical music and good food!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllardQuek&theme=ayu-mirage&show_icons=true)
+<a href="https://github-readme-stats.vercel.app/api?username=AllardQuek">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AllardQuek&theme=vision-friendly-dark&show_icons=true" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=AllardQuek&hide=jupyter%20notebook)">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllardQuek&layout=compact&theme=vision-friendly-dark&hide=jupyter%20notebook" />
+</a>
+<br /><br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllardQuek&hide=jupyter%20notebook)](https://github.com/AllardQuek/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AllardQuek&repo=Wav2Lip)](https://github.com/AllardQuek/Wav2Lip)
+## What I'm Currently Working On:
+<a href="https://github.com/AllardQuek/Wav2Lip">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AllardQuek&repo=Wav2Lip&theme=vision-friendly-dark" />
+</a>
+<a href="https://github.com/AllardQuek/AnyTutor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AllardQuek&repo=AnyTutor&theme=vision-friendly-dark" />
+</a>
+
+
+
 
 
 
