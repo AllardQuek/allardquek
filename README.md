@@ -8,6 +8,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllardQuek&theme=ayu-mirage&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllardQuek&hide=jupyter%20notebook)](https://github.com/AllardQuek/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AllardQuek&repo=Wav2Lip)](https://github.com/AllardQuek/Wav2Lip)
+
 
 
 <!--
