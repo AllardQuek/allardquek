@@ -29,7 +29,7 @@
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/ProgrammerError)
+--> [more videos...](https://youtube.com/ProgrammerError)
 
 
 ### :zap: Recent Activity
