@@ -24,9 +24,9 @@
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#1](https://github.com/AllardQuek/AnyTutor/pull/1) in [AllardQuek/AnyTutor](https://github.com/AllardQuek/AnyTutor)
 <!--END_SECTION:activity-->
+<br />
 
-
-
+## Me On GitHub
 <a href="https://github-readme-stats.vercel.app/api?username=AllardQuek">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AllardQuek&theme=vision-friendly-dark&show_icons=true" />
 </a>
@@ -36,7 +36,7 @@
 <br /><br />
 
 
-## What I'm Currently Working On:
+## What I'm Currently Working On
 <a href="https://github.com/AllardQuek/Wav2Lip">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AllardQuek&repo=Wav2Lip&theme=vision-friendly-dark" />
 </a>
