@@ -1,4 +1,4 @@
-# Hello Friend! 👋
+# Hi There! 👋
 
 [<img align="left" alt="github followers" src="https://img.shields.io/github/followers/AllardQuek?style=for-the-badge" />][github]
 [<img align="left" alt="youtube" src="https://img.shields.io/youtube/channel/subscribers/UCqGYtj5y-gIkTi4dSJfh7ow?logo=Youtube&style=for-the-badge" />][youtube]
@@ -29,6 +29,7 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
+[<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][postgresql]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
@@ -90,6 +91,7 @@
 [javascript]: https://www.javascript.com/
 [mysql]: https://www.mysql.com/
 [git]: https://git-scm.com/
+[postgresql]: https://www.postgresql.org/
 
 
 <!--
