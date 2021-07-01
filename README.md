@@ -14,6 +14,8 @@
 
 <br/>
 
+### Currently Vibing To 💃
+
 [![Spotify](https://novatorem-githubstatus.vercel.app/api/spotify)](https://open.spotify.com/user/21gus2vnk7dm464bndnr6ibmi)
 
 
