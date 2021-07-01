@@ -12,6 +12,11 @@
 
 ⚡ Fun fact: I love football, classical music and good food!
 
+<br/>
+
+[![Spotify](https://novatorem-githubstatus.vercel.app/api/spotify)](https://open.spotify.com/user/21gus2vnk7dm464bndnr6ibmi)
+
+
 
 ### Connect with Me:
 
@@ -41,6 +46,7 @@
 
 <br />
 <br />
+
 
 ### 📺 Latest YouTube Videos
 
