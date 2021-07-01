@@ -69,17 +69,20 @@
 
 ## Me On GitHub
 <a href="https://github-readme-stats.vercel.app/api?username=AllardQuek">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AllardQuek&theme=vision-friendly-dark&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AllardQuek&theme=bear&hide=issues&show_icons=true" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=AllardQuek&hide=jupyter%20notebook)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllardQuek&layout=compact&theme=vision-friendly-dark&hide=jupyter%20notebook" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllardQuek&layout=compact&theme=bear&hide=jupyter%20notebook" />
 </a>
 <br /><br />
 
 
 ## What I'm Currently Working On
 <a href="https://github.com/AllardQuek/Wav2Lip">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AllardQuek&repo=Wav2Lip&theme=vision-friendly-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AllardQuek&repo=Wav2Lip&theme=bear" />
+</a>
+<a href="https://github.com/AllardQuek/AnyTutor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AllardQuek&repo=AnyTutor&theme=bear" />
 </a>
 
 
