@@ -13,7 +13,7 @@
 ⚡ Fun fact: I love football, classical music and good food!
 
 
-### Currently Vibing To 💃
+### Currently vibing to 💃
 
 [![Spotify](https://novatorem-githubstatus.vercel.app/api/spotify)](https://open.spotify.com/user/21gus2vnk7dm464bndnr6ibmi)
 
