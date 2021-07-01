@@ -12,7 +12,6 @@
 
 ⚡ Fun fact: I love football, classical music and good food!
 
-<br/>
 
 ### Currently Vibing To 💃
 
