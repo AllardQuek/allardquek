@@ -81,9 +81,7 @@
 <a href="https://github.com/AllardQuek/Wav2Lip">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AllardQuek&repo=Wav2Lip&theme=vision-friendly-dark" />
 </a>
-<a href="https://github.com/AllardQuek/AnyTutor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AllardQuek&repo=AnyTutor&theme=vision-friendly-dark" />
-</a>
+
 
 
 [github]: https://github.com/AllardQuek
