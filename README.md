@@ -1,10 +1,39 @@
 # Hello Friend! 👋
 
+[<img align="left" alt="github followers" src="https://img.shields.io/github/followers/AllardQuek?style=for-the-badge" />][github]
+[<img align="left" alt="youtube" src="https://img.shields.io/youtube/channel/subscribers/UCqGYtj5y-gIkTi4dSJfh7ow?logo=Youtube&style=for-the-badge" />][youtube]
+[<img align="left" alt="github followers" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />][spotify]
+
+<br /><br />
+
 🔭 I’m Allard, a Computer Science undergraduate at the National University of Singapore.
 
 🌱 Interested in Web Development, Machine Learning and more!
 
 ⚡ Fun fact: I love football, classical music and good food!
+
+
+### Connect with me:
+
+[<img align="left" alt="www.allardquek.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="ProgrammerError | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="allard-quek | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css3]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+
+<br />
+<br />
 
 ### 📺 Latest YouTube Videos
 
@@ -44,6 +73,23 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AllardQuek&repo=AnyTutor&theme=vision-friendly-dark" />
 </a>
 
+
+[github]: https://github.com/AllardQuek
+[website]: https://www.allardquek.tech/
+[spotify]: https://open.spotify.com/user/21gus2vnk7dm464bndnr6ibmi
+[youtube]: https://youtube.com/ProgrammerError
+[linkedin]: https://linkedin.com/in/allard-quek
+[vimplaylist]: https://www.youtube.com/playlist?list=PLE2yHuA6r_XgwpxLfbVYmkBnkBUPAbkva
+[jupyterplaylist]: https://www.youtube.com/playlist?list=PLE2yHuA6r_XguIL9cACzGtITbTG4l--Bl
+[reactplaylist]: https://www.youtube.com/playlist?list=PLE2yHuA6r_Xh012ULfpnsG7QfX-_L4UYp
+
+
+[vscode]: https://code.visualstudio.com/
+[html5]: https://developer.mozilla.org/en-US/docs/Glossary/HTML5
+[css3]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[javascript]: https://www.javascript.com/
+[mysql]: https://www.mysql.com/
+[git]: https://git-scm.com/
 
 
 <!--
