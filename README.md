@@ -87,7 +87,6 @@
 [jupyterplaylist]: https://www.youtube.com/playlist?list=PLE2yHuA6r_XguIL9cACzGtITbTG4l--Bl
 [reactplaylist]: https://www.youtube.com/playlist?list=PLE2yHuA6r_Xh012ULfpnsG7QfX-_L4UYp
 
-
 [vscode]: https://code.visualstudio.com/
 [java]: https://www.java.com/en/
 [python]: https://www.python.org/
