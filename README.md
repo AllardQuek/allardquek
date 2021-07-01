@@ -13,7 +13,7 @@
 ⚡ Fun fact: I love football, classical music and good food!
 
 
-### Connect with me:
+### Connect with Me:
 
 [<img align="left" alt="www.allardquek.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="ProgrammerError | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -28,6 +28,8 @@
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css3]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
+[<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />][django]
+
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
 [<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][postgresql]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
@@ -45,8 +47,6 @@
 - [React | How to Add a Favicon and Title](https://www.youtube.com/watch?v=7pJmM-XdPm8)
 - [Vim in VS Code - How To Set Up, Use and Customize](https://www.youtube.com/watch?v=Ljv1ejQQk-U)
 <!-- YOUTUBE:END -->
-
---> [more videos...](https://youtube.com/ProgrammerError)
 
 
 ### :zap: Recent Activity
@@ -89,6 +89,7 @@
 [html5]: https://developer.mozilla.org/en-US/docs/Glossary/HTML5
 [css3]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [javascript]: https://www.javascript.com/
+[django]: https://www.djangoproject.com/
 [mysql]: https://www.mysql.com/
 [git]: https://git-scm.com/
 [postgresql]: https://www.postgresql.org/
