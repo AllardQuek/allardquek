@@ -52,11 +52,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Testing GitHub CoPilot: Pros, Cons, and Your Questions Answered](https://www.youtube.com/watch?v=wD39-driXvI)
 - [React | How to Upload to AWS S3 Using Pre-signed URLs](https://www.youtube.com/watch?v=_khupEk42zs)
 - [React | How to Manage Unused Packages](https://www.youtube.com/watch?v=f-a3kUxVymw)
 - [React | How to Code Faster (enable Emmet in VS Code)](https://www.youtube.com/watch?v=TSk0GTPgcLU)
 - [React | How to Add a Favicon and Title](https://www.youtube.com/watch?v=7pJmM-XdPm8)
-- [Vim in VS Code - How To Set Up, Use and Customize](https://www.youtube.com/watch?v=Ljv1ejQQk-U)
 <!-- YOUTUBE:END -->
 
 
