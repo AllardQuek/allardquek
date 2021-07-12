@@ -63,7 +63,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/AllardQuek/AnyTutor/pull/3) in [AllardQuek/AnyTutor](https://github.com/AllardQuek/AnyTutor)
+1. 🎉 Merged PR [#4](https://github.com/AllardQuek/AnyTutor/pull/4) in [AllardQuek/AnyTutor](https://github.com/AllardQuek/AnyTutor)
 <!--END_SECTION:activity-->
 <br />
 
