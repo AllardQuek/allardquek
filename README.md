@@ -56,7 +56,7 @@
 - [Testing GitHub CoPilot: Pros, Cons, and Your Questions Answered](https://www.youtube.com/watch?v=wD39-driXvI)
 - [React x AWS | How to Upload to AWS S3 Using Pre-signed URLs](https://www.youtube.com/watch?v=_khupEk42zs)
 - [React | How to Manage Unused Packages](https://www.youtube.com/watch?v=f-a3kUxVymw)
-- [React | How to Code Faster (enable Emmet in VS Code)](https://www.youtube.com/watch?v=TSk0GTPgcLU)
+- [React | How to Code Faster](https://www.youtube.com/watch?v=TSk0GTPgcLU)
 <!-- YOUTUBE:END -->
 
 
