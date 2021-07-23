@@ -63,7 +63,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/AllardQuek/MediaTE/pull/4) in [AllardQuek/MediaTE](https://github.com/AllardQuek/MediaTE)
+1. ❗️ Closed issue [#3](https://github.com/AllardQuek/MediaTE/issues/3) in [AllardQuek/MediaTE](https://github.com/AllardQuek/MediaTE)
 <!--END_SECTION:activity-->
 <br />
 
