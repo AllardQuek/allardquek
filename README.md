@@ -52,11 +52,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [VS Code Extensions Tier List](https://www.youtube.com/watch?v=7eSZzdSS2E0)
 - [React | How to Deploy to GitHub Pages](https://www.youtube.com/watch?v=v1-bvNlaXE4)
 - [AWS | How To Automate Jupyter Notebooks](https://www.youtube.com/watch?v=wSdVAa7b5Oc)
 - [Testing GitHub CoPilot: Pros, Cons, and Your Questions Answered](https://www.youtube.com/watch?v=wD39-driXvI)
 - [React x AWS | How to Upload to AWS S3 Using Pre-signed URLs](https://www.youtube.com/watch?v=_khupEk42zs)
-- [React | How to Manage Unused Packages](https://www.youtube.com/watch?v=f-a3kUxVymw)
 <!-- YOUTUBE:END -->
 
 
