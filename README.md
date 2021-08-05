@@ -52,11 +52,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [VS Code Extensions You Didn't Know About](https://www.youtube.com/watch?v=i6Ti5AHAe94)
 - [VS Code Extensions | Most Unique Theme?](https://www.youtube.com/watch?v=Erqm47apYvM)
 - [VS Code Extensions Tier List](https://www.youtube.com/watch?v=7eSZzdSS2E0)
 - [React | How to Deploy to GitHub Pages](https://www.youtube.com/watch?v=v1-bvNlaXE4)
 - [AWS | How To Automate Jupyter Notebooks](https://www.youtube.com/watch?v=wSdVAa7b5Oc)
-- [Testing GitHub CoPilot: Pros, Cons, and Your Questions Answered](https://www.youtube.com/watch?v=wD39-driXvI)
 <!-- YOUTUBE:END -->
 
 
