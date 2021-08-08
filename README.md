@@ -6,11 +6,21 @@
 
 <br /><br />
 
-🔭 I’m Allard, a Computer Science undergraduate at the National University of Singapore.
-
-🌱 Interested in Web Development, Machine Learning and more!
-
-⚡ Fun fact: I love football, classical music and good food!
+<details>
+  <summary>🔭 Who am I?</summary>
+  
+      I’m Allard, a Computer Science undergraduate at the National University of Singapore.
+</details>
+<details>
+  <summary>🌱 What are my interests?</summary>
+  
+      I'm interested in Web Development, Machine Learning and more!
+</details>
+<details>
+  <summary>⚡ What's a fun fact about me?</summary>
+  
+      I love football, classical music and good food!
+</details>
 
 
 ### Currently vibing to 💃
