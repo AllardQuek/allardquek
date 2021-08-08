@@ -17,7 +17,7 @@
       I'm interested in Web Development, Machine Learning and more!
 </details>
 <details>
-  <summary>⚡ What's a fun fact about me?</summary>
+  <summary>⚡ Fun fact?</summary>
   
       I love football, classical music and good food!
 </details>
