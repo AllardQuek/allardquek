@@ -73,7 +73,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/AllardQuek/MediaTE/pull/5) in [AllardQuek/MediaTE](https://github.com/AllardQuek/MediaTE)
+1. 🗣 Commented on [#3](https://github.com/nus-cs2103-AY2122S1/forum/issues/3) in [nus-cs2103-AY2122S1/forum](https://github.com/nus-cs2103-AY2122S1/forum)
 <!--END_SECTION:activity-->
 <br />
 
