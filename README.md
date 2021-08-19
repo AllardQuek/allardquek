@@ -79,17 +79,17 @@
 
 ## Me On GitHub
 <a href="https://github-readme-stats.vercel.app/api?username=AllardQuek">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AllardQuek&theme=bear&hide=issues&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AllardQuek&theme=tokyonight&hide=issues&show_icons=true" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=AllardQuek&hide=jupyter%20notebook)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllardQuek&layout=compact&theme=bear&hide=jupyter%20notebook" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllardQuek&layout=compact&theme=tokyonight&hide=jupyter%20notebook" />
 </a>
 <br /><br />
 
 
 ## What I'm Currently Working On
 <a href="https://github.com/AllardQuek/ip">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AllardQuek&repo=ip&theme=bear" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=AllardQuek&repo=ip&theme=tokyonight" />
 </a>
 
 
