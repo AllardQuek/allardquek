@@ -73,7 +73,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/nus-cs2103-AY2122S1/forum/issues/3) in [nus-cs2103-AY2122S1/forum](https://github.com/nus-cs2103-AY2122S1/forum)
+1. ❗️ Opened issue [#1](https://github.com/jovyntls/ip/issues/1) in [jovyntls/ip](https://github.com/jovyntls/ip)
 <!--END_SECTION:activity-->
 <br />
 
