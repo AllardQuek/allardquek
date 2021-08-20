@@ -63,10 +63,10 @@
 
 <!-- YOUTUBE:START -->
 - [VS Code Extensions You Probably Didn't Know About](https://www.youtube.com/watch?v=i6Ti5AHAe94)
+- [VS Code Extensions | Web Edition](https://www.youtube.com/watch?v=s2xnIAThgYc)
 - [VS Code Extensions | Most Unique Theme?](https://www.youtube.com/watch?v=Erqm47apYvM)
 - [VS Code Extensions Tier List](https://www.youtube.com/watch?v=7eSZzdSS2E0)
 - [React | How to Deploy to GitHub Pages](https://www.youtube.com/watch?v=v1-bvNlaXE4)
-- [AWS | How To Automate Jupyter Notebooks](https://www.youtube.com/watch?v=wSdVAa7b5Oc)
 <!-- YOUTUBE:END -->
 
 
