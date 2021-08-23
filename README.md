@@ -73,7 +73,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/jovyntls/ip/issues/1) in [jovyntls/ip](https://github.com/jovyntls/ip)
+1. 💪 Opened PR [#259](https://github.com/nus-cs2103-AY2122S1/ip/pull/259) in [nus-cs2103-AY2122S1/ip](https://github.com/nus-cs2103-AY2122S1/ip)
 <!--END_SECTION:activity-->
 <br />
 
