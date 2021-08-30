@@ -73,7 +73,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#139](https://github.com/nus-cs2103-AY2122S1/forum/issues/139) in [nus-cs2103-AY2122S1/forum](https://github.com/nus-cs2103-AY2122S1/forum)
+1. 🗣 Commented on [#91](https://github.com/nus-cs2103-AY2122S1/forum/issues/91) in [nus-cs2103-AY2122S1/forum](https://github.com/nus-cs2103-AY2122S1/forum)
 <!--END_SECTION:activity-->
 <br />
 
