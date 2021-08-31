@@ -73,6 +73,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#91](https://github.com/nus-cs2103-AY2122S1/forum/issues/91) in [nus-cs2103-AY2122S1/forum](https://github.com/nus-cs2103-AY2122S1/forum)
+2. 🗣 Commented on [#139](https://github.com/nus-cs2103-AY2122S1/forum/issues/139) in [nus-cs2103-AY2122S1/forum](https://github.com/nus-cs2103-AY2122S1/forum)
+3. ❗️ Closed issue [#119](https://github.com/nus-cs2103-AY2122S1/forum/issues/119) in [nus-cs2103-AY2122S1/forum](https://github.com/nus-cs2103-AY2122S1/forum)
+4. 🗣 Commented on [#119](https://github.com/nus-cs2103-AY2122S1/forum/issues/119) in [nus-cs2103-AY2122S1/forum](https://github.com/nus-cs2103-AY2122S1/forum)
+5. 🗣 Commented on [#119](https://github.com/nus-cs2103-AY2122S1/forum/issues/119) in [nus-cs2103-AY2122S1/forum](https://github.com/nus-cs2103-AY2122S1/forum)
 <!--END_SECTION:activity-->
 
 <br />
