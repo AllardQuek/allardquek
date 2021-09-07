@@ -73,11 +73,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#181](https://github.com/nus-cs2103-AY2122S1/forum/issues/181) in [nus-cs2103-AY2122S1/forum](https://github.com/nus-cs2103-AY2122S1/forum)
-2. 🗣 Commented on [#176](https://github.com/nus-cs2103-AY2122S1/forum/issues/176) in [nus-cs2103-AY2122S1/forum](https://github.com/nus-cs2103-AY2122S1/forum)
-3. ❗️ Closed issue [#142](https://github.com/nus-cs2103-AY2122S1/forum/issues/142) in [nus-cs2103-AY2122S1/forum](https://github.com/nus-cs2103-AY2122S1/forum)
-4. 🗣 Commented on [#259](https://github.com/nus-cs2103-AY2122S1/ip/issues/259) in [nus-cs2103-AY2122S1/ip](https://github.com/nus-cs2103-AY2122S1/ip)
-5. ❗️ Opened issue [#142](https://github.com/nus-cs2103-AY2122S1/forum/issues/142) in [nus-cs2103-AY2122S1/forum](https://github.com/nus-cs2103-AY2122S1/forum)
+1. 🎉 Merged PR [#2](https://github.com/AllardQuek/ip/pull/2) in [AllardQuek/ip](https://github.com/AllardQuek/ip)
+2. 💪 Opened PR [#2](https://github.com/AllardQuek/ip/pull/2) in [AllardQuek/ip](https://github.com/AllardQuek/ip)
+3. ❌ Closed PR [#543](https://github.com/nus-cs2103-AY2122S1/ip/pull/543) in [nus-cs2103-AY2122S1/ip](https://github.com/nus-cs2103-AY2122S1/ip)
+4. 💪 Opened PR [#543](https://github.com/nus-cs2103-AY2122S1/ip/pull/543) in [nus-cs2103-AY2122S1/ip](https://github.com/nus-cs2103-AY2122S1/ip)
+5. 🎉 Merged PR [#1](https://github.com/AllardQuek/ip/pull/1) in [AllardQuek/ip](https://github.com/AllardQuek/ip)
 <!--END_SECTION:activity-->
 
 <br />
