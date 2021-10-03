@@ -62,9 +62,9 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Full ZSH Customization (iTerm2 + Oh My Zsh + Auto-suggestions + Syntax Highlighting)](https://www.youtube.com/watch?v=JepfAZY3ekE)
 - [Writing Better READMEs (Markdown + GitHub Workflows)](https://www.youtube.com/watch?v=37TiMGLHd_Q)
 - [VS Code Extensions | Web Edition](https://www.youtube.com/watch?v=s2xnIAThgYc)
-- [Full ZSH Customization (iTerm2 + Oh My Zsh + Auto-suggestions + Syntax Highlighting)](https://www.youtube.com/watch?v=JepfAZY3ekE)
 - [VS Code Extensions You Probably Didn't Know About](https://www.youtube.com/watch?v=i6Ti5AHAe94)
 - [VS Code Extensions | Most Unique Theme?](https://www.youtube.com/watch?v=Erqm47apYvM)
 <!-- YOUTUBE:END -->
