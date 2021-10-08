@@ -73,11 +73,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#61](https://github.com/AY2122S1-CS2103-F09-3/tp/pull/61) in [AY2122S1-CS2103-F09-3/tp](https://github.com/AY2122S1-CS2103-F09-3/tp)
-2. 🎉 Merged PR [#66](https://github.com/AY2122S1-CS2103-F09-3/tp/pull/66) in [AY2122S1-CS2103-F09-3/tp](https://github.com/AY2122S1-CS2103-F09-3/tp)
-3. 💪 Opened PR [#66](https://github.com/AY2122S1-CS2103-F09-3/tp/pull/66) in [AY2122S1-CS2103-F09-3/tp](https://github.com/AY2122S1-CS2103-F09-3/tp)
-4. 💪 Opened PR [#65](https://github.com/AY2122S1-CS2103-F09-3/tp/pull/65) in [AY2122S1-CS2103-F09-3/tp](https://github.com/AY2122S1-CS2103-F09-3/tp)
-5. 🗣 Commented on [#55](https://github.com/AY2122S1-CS2103-F09-3/tp/issues/55) in [AY2122S1-CS2103-F09-3/tp](https://github.com/AY2122S1-CS2103-F09-3/tp)
+1. 🗣 Commented on [#296](https://github.com/nus-cs2103-AY2122S1/forum/issues/296) in [nus-cs2103-AY2122S1/forum](https://github.com/nus-cs2103-AY2122S1/forum)
+2. 🎉 Merged PR [#61](https://github.com/AY2122S1-CS2103-F09-3/tp/pull/61) in [AY2122S1-CS2103-F09-3/tp](https://github.com/AY2122S1-CS2103-F09-3/tp)
+3. 🎉 Merged PR [#66](https://github.com/AY2122S1-CS2103-F09-3/tp/pull/66) in [AY2122S1-CS2103-F09-3/tp](https://github.com/AY2122S1-CS2103-F09-3/tp)
+4. 💪 Opened PR [#66](https://github.com/AY2122S1-CS2103-F09-3/tp/pull/66) in [AY2122S1-CS2103-F09-3/tp](https://github.com/AY2122S1-CS2103-F09-3/tp)
+5. 💪 Opened PR [#65](https://github.com/AY2122S1-CS2103-F09-3/tp/pull/65) in [AY2122S1-CS2103-F09-3/tp](https://github.com/AY2122S1-CS2103-F09-3/tp)
 <!--END_SECTION:activity-->
 
 <br />
