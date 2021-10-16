@@ -73,11 +73,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#129](https://github.com/AY2122S1-CS2103-F09-3/tp/pull/129) in [AY2122S1-CS2103-F09-3/tp](https://github.com/AY2122S1-CS2103-F09-3/tp)
-2. ❗️ Closed issue [#124](https://github.com/AY2122S1-CS2103-F09-3/tp/issues/124) in [AY2122S1-CS2103-F09-3/tp](https://github.com/AY2122S1-CS2103-F09-3/tp)
-3. 💪 Opened PR [#130](https://github.com/AY2122S1-CS2103-F09-3/tp/pull/130) in [AY2122S1-CS2103-F09-3/tp](https://github.com/AY2122S1-CS2103-F09-3/tp)
-4. 💪 Opened PR [#128](https://github.com/AY2122S1-CS2103-F09-3/tp/pull/128) in [AY2122S1-CS2103-F09-3/tp](https://github.com/AY2122S1-CS2103-F09-3/tp)
-5. 🗣 Commented on [#319](https://github.com/nus-cs2103-AY2122S1/forum/issues/319) in [nus-cs2103-AY2122S1/forum](https://github.com/nus-cs2103-AY2122S1/forum)
+1. ❗️ Opened issue [#2](https://github.com/AllardQuek/alpha/issues/2) in [AllardQuek/alpha](https://github.com/AllardQuek/alpha)
+2. ❗️ Opened issue [#131](https://github.com/AY2122S1-CS2103-F09-3/tp/issues/131) in [AY2122S1-CS2103-F09-3/tp](https://github.com/AY2122S1-CS2103-F09-3/tp)
+3. ❗️ Opened issue [#1](https://github.com/AllardQuek/alpha/issues/1) in [AllardQuek/alpha](https://github.com/AllardQuek/alpha)
+4. 🎉 Merged PR [#129](https://github.com/AY2122S1-CS2103-F09-3/tp/pull/129) in [AY2122S1-CS2103-F09-3/tp](https://github.com/AY2122S1-CS2103-F09-3/tp)
+5. ❗️ Closed issue [#124](https://github.com/AY2122S1-CS2103-F09-3/tp/issues/124) in [AY2122S1-CS2103-F09-3/tp](https://github.com/AY2122S1-CS2103-F09-3/tp)
 <!--END_SECTION:activity-->
 
 <br />
