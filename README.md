@@ -73,11 +73,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/AllardQuek/alpha/issues/2) in [AllardQuek/alpha](https://github.com/AllardQuek/alpha)
-2. ❗️ Opened issue [#131](https://github.com/AY2122S1-CS2103-F09-3/tp/issues/131) in [AY2122S1-CS2103-F09-3/tp](https://github.com/AY2122S1-CS2103-F09-3/tp)
-3. ❗️ Opened issue [#1](https://github.com/AllardQuek/alpha/issues/1) in [AllardQuek/alpha](https://github.com/AllardQuek/alpha)
-4. 🎉 Merged PR [#129](https://github.com/AY2122S1-CS2103-F09-3/tp/pull/129) in [AY2122S1-CS2103-F09-3/tp](https://github.com/AY2122S1-CS2103-F09-3/tp)
-5. ❗️ Closed issue [#124](https://github.com/AY2122S1-CS2103-F09-3/tp/issues/124) in [AY2122S1-CS2103-F09-3/tp](https://github.com/AY2122S1-CS2103-F09-3/tp)
+1. 💪 Opened PR [#133](https://github.com/AY2122S1-CS2103-F09-3/tp/pull/133) in [AY2122S1-CS2103-F09-3/tp](https://github.com/AY2122S1-CS2103-F09-3/tp)
+2. 💪 Opened PR [#132](https://github.com/AY2122S1-CS2103-F09-3/tp/pull/132) in [AY2122S1-CS2103-F09-3/tp](https://github.com/AY2122S1-CS2103-F09-3/tp)
+3. ❗️ Opened issue [#2](https://github.com/AllardQuek/alpha/issues/2) in [AllardQuek/alpha](https://github.com/AllardQuek/alpha)
+4. ❗️ Opened issue [#131](https://github.com/AY2122S1-CS2103-F09-3/tp/issues/131) in [AY2122S1-CS2103-F09-3/tp](https://github.com/AY2122S1-CS2103-F09-3/tp)
+5. ❗️ Opened issue [#1](https://github.com/AllardQuek/alpha/issues/1) in [AllardQuek/alpha](https://github.com/AllardQuek/alpha)
 <!--END_SECTION:activity-->
 
 <br />
