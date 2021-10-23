@@ -73,11 +73,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#176](https://github.com/AY2122S1-CS2103-F09-3/tp/pull/176) in [AY2122S1-CS2103-F09-3/tp](https://github.com/AY2122S1-CS2103-F09-3/tp)
-2. ❗️ Opened issue [#175](https://github.com/AY2122S1-CS2103-F09-3/tp/issues/175) in [AY2122S1-CS2103-F09-3/tp](https://github.com/AY2122S1-CS2103-F09-3/tp)
-3. 🎉 Merged PR [#169](https://github.com/AY2122S1-CS2103-F09-3/tp/pull/169) in [AY2122S1-CS2103-F09-3/tp](https://github.com/AY2122S1-CS2103-F09-3/tp)
-4. ❗️ Opened issue [#4](https://github.com/AllardQuek/alpha/issues/4) in [AllardQuek/alpha](https://github.com/AllardQuek/alpha)
-5. ❗️ Opened issue [#3](https://github.com/AllardQuek/alpha/issues/3) in [AllardQuek/alpha](https://github.com/AllardQuek/alpha)
+1. 💪 Opened PR [#179](https://github.com/AY2122S1-CS2103-F09-3/tp/pull/179) in [AY2122S1-CS2103-F09-3/tp](https://github.com/AY2122S1-CS2103-F09-3/tp)
+2. 💪 Opened PR [#178](https://github.com/AY2122S1-CS2103-F09-3/tp/pull/178) in [AY2122S1-CS2103-F09-3/tp](https://github.com/AY2122S1-CS2103-F09-3/tp)
+3. ❌ Closed PR [#177](https://github.com/AY2122S1-CS2103-F09-3/tp/pull/177) in [AY2122S1-CS2103-F09-3/tp](https://github.com/AY2122S1-CS2103-F09-3/tp)
+4. 💪 Opened PR [#177](https://github.com/AY2122S1-CS2103-F09-3/tp/pull/177) in [AY2122S1-CS2103-F09-3/tp](https://github.com/AY2122S1-CS2103-F09-3/tp)
+5. 💪 Opened PR [#176](https://github.com/AY2122S1-CS2103-F09-3/tp/pull/176) in [AY2122S1-CS2103-F09-3/tp](https://github.com/AY2122S1-CS2103-F09-3/tp)
 <!--END_SECTION:activity-->
 
 
