@@ -73,11 +73,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#210](https://github.com/AY2122S1-CS2103-F09-3/tp/pull/210) in [AY2122S1-CS2103-F09-3/tp](https://github.com/AY2122S1-CS2103-F09-3/tp)
-2. 💪 Opened PR [#211](https://github.com/AY2122S1-CS2103-F09-3/tp/pull/211) in [AY2122S1-CS2103-F09-3/tp](https://github.com/AY2122S1-CS2103-F09-3/tp)
-3. ❌ Closed PR [#207](https://github.com/AY2122S1-CS2103-F09-3/tp/pull/207) in [AY2122S1-CS2103-F09-3/tp](https://github.com/AY2122S1-CS2103-F09-3/tp)
-4. 🗣 Commented on [#207](https://github.com/AY2122S1-CS2103-F09-3/tp/issues/207) in [AY2122S1-CS2103-F09-3/tp](https://github.com/AY2122S1-CS2103-F09-3/tp)
-5. 🎉 Merged PR [#208](https://github.com/AY2122S1-CS2103-F09-3/tp/pull/208) in [AY2122S1-CS2103-F09-3/tp](https://github.com/AY2122S1-CS2103-F09-3/tp)
+1. 🗣 Commented on [#211](https://github.com/AY2122S1-CS2103-F09-3/tp/issues/211) in [AY2122S1-CS2103-F09-3/tp](https://github.com/AY2122S1-CS2103-F09-3/tp)
+2. 🎉 Merged PR [#212](https://github.com/AY2122S1-CS2103-F09-3/tp/pull/212) in [AY2122S1-CS2103-F09-3/tp](https://github.com/AY2122S1-CS2103-F09-3/tp)
+3. 🗣 Commented on [#211](https://github.com/AY2122S1-CS2103-F09-3/tp/issues/211) in [AY2122S1-CS2103-F09-3/tp](https://github.com/AY2122S1-CS2103-F09-3/tp)
+4. 🗣 Commented on [#211](https://github.com/AY2122S1-CS2103-F09-3/tp/issues/211) in [AY2122S1-CS2103-F09-3/tp](https://github.com/AY2122S1-CS2103-F09-3/tp)
+5. 🗣 Commented on [#211](https://github.com/AY2122S1-CS2103-F09-3/tp/issues/211) in [AY2122S1-CS2103-F09-3/tp](https://github.com/AY2122S1-CS2103-F09-3/tp)
 <!--END_SECTION:activity-->
 
 
