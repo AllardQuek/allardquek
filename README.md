@@ -73,11 +73,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#352](https://github.com/nus-cs2103-AY2122S1/forum/issues/352) in [nus-cs2103-AY2122S1/forum](https://github.com/nus-cs2103-AY2122S1/forum)
-2. 🗣 Commented on [#350](https://github.com/nus-cs2103-AY2122S1/forum/issues/350) in [nus-cs2103-AY2122S1/forum](https://github.com/nus-cs2103-AY2122S1/forum)
-3. ❗️ Closed issue [#299](https://github.com/AY2122S1-CS2103-F09-3/tp/issues/299) in [AY2122S1-CS2103-F09-3/tp](https://github.com/AY2122S1-CS2103-F09-3/tp)
-4. 🎉 Merged PR [#302](https://github.com/AY2122S1-CS2103-F09-3/tp/pull/302) in [AY2122S1-CS2103-F09-3/tp](https://github.com/AY2122S1-CS2103-F09-3/tp)
-5. 💪 Opened PR [#302](https://github.com/AY2122S1-CS2103-F09-3/tp/pull/302) in [AY2122S1-CS2103-F09-3/tp](https://github.com/AY2122S1-CS2103-F09-3/tp)
+1. ❗️ Opened issue [#11](https://github.com/AllardQuek/ped/issues/11) in [AllardQuek/ped](https://github.com/AllardQuek/ped)
+2. ❗️ Opened issue [#10](https://github.com/AllardQuek/ped/issues/10) in [AllardQuek/ped](https://github.com/AllardQuek/ped)
+3. ❗️ Opened issue [#9](https://github.com/AllardQuek/ped/issues/9) in [AllardQuek/ped](https://github.com/AllardQuek/ped)
+4. ❗️ Opened issue [#8](https://github.com/AllardQuek/ped/issues/8) in [AllardQuek/ped](https://github.com/AllardQuek/ped)
+5. ❗️ Opened issue [#7](https://github.com/AllardQuek/ped/issues/7) in [AllardQuek/ped](https://github.com/AllardQuek/ped)
 <!--END_SECTION:activity-->
 
 
