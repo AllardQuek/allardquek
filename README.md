@@ -73,11 +73,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#480](https://github.com/AY2122S1-CS2103-F09-3/tp/issues/480) in [AY2122S1-CS2103-F09-3/tp](https://github.com/AY2122S1-CS2103-F09-3/tp)
-2. 🎉 Merged PR [#474](https://github.com/AY2122S1-CS2103-F09-3/tp/pull/474) in [AY2122S1-CS2103-F09-3/tp](https://github.com/AY2122S1-CS2103-F09-3/tp)
-3. ❗️ Closed issue [#472](https://github.com/AY2122S1-CS2103-F09-3/tp/issues/472) in [AY2122S1-CS2103-F09-3/tp](https://github.com/AY2122S1-CS2103-F09-3/tp)
-4. ❗️ Closed issue [#475](https://github.com/AY2122S1-CS2103-F09-3/tp/issues/475) in [AY2122S1-CS2103-F09-3/tp](https://github.com/AY2122S1-CS2103-F09-3/tp)
-5. ❗️ Closed issue [#473](https://github.com/AY2122S1-CS2103-F09-3/tp/issues/473) in [AY2122S1-CS2103-F09-3/tp](https://github.com/AY2122S1-CS2103-F09-3/tp)
+1. 🎉 Merged PR [#482](https://github.com/AY2122S1-CS2103-F09-3/tp/pull/482) in [AY2122S1-CS2103-F09-3/tp](https://github.com/AY2122S1-CS2103-F09-3/tp)
+2. ❗️ Opened issue [#480](https://github.com/AY2122S1-CS2103-F09-3/tp/issues/480) in [AY2122S1-CS2103-F09-3/tp](https://github.com/AY2122S1-CS2103-F09-3/tp)
+3. 🎉 Merged PR [#474](https://github.com/AY2122S1-CS2103-F09-3/tp/pull/474) in [AY2122S1-CS2103-F09-3/tp](https://github.com/AY2122S1-CS2103-F09-3/tp)
+4. ❗️ Closed issue [#472](https://github.com/AY2122S1-CS2103-F09-3/tp/issues/472) in [AY2122S1-CS2103-F09-3/tp](https://github.com/AY2122S1-CS2103-F09-3/tp)
+5. ❗️ Closed issue [#475](https://github.com/AY2122S1-CS2103-F09-3/tp/issues/475) in [AY2122S1-CS2103-F09-3/tp](https://github.com/AY2122S1-CS2103-F09-3/tp)
 <!--END_SECTION:activity-->
 
 
