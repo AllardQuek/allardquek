@@ -81,13 +81,12 @@
 <!--END_SECTION:activity-->
 
 
+<!--
 ## What I'm Currently Working On
 <a href="https://github.com/AY2122S1-CS2103-F09-3/tp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AY2122S1-CS2103-F09-3&repo=tp&theme=tokyonight" />
 </a>
-<a href="https://github.com/nus-cs2103-AY2122S1/forum">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nus-cs2103-AY2122S1&repo=forum&theme=tokyonight" />
-</a>
+-->
 
 ## Me On GitHub
 <a href="https://github-readme-stats.vercel.app/api?username=AllardQuek">
