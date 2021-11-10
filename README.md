@@ -73,11 +73,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#335](https://github.com/nus-cs2103-AY2122S1/forum/issues/335) in [nus-cs2103-AY2122S1/forum](https://github.com/nus-cs2103-AY2122S1/forum)
-2. ❗️ Closed issue [#322](https://github.com/nus-cs2103-AY2122S1/forum/issues/322) in [nus-cs2103-AY2122S1/forum](https://github.com/nus-cs2103-AY2122S1/forum)
-3. ❗️ Closed issue [#352](https://github.com/nus-cs2103-AY2122S1/forum/issues/352) in [nus-cs2103-AY2122S1/forum](https://github.com/nus-cs2103-AY2122S1/forum)
-4. ❗️ Opened issue [#392](https://github.com/nus-cs2103-AY2122S1/forum/issues/392) in [nus-cs2103-AY2122S1/forum](https://github.com/nus-cs2103-AY2122S1/forum)
-5. ❗️ Opened issue [#391](https://github.com/nus-cs2103-AY2122S1/forum/issues/391) in [nus-cs2103-AY2122S1/forum](https://github.com/nus-cs2103-AY2122S1/forum)
+1. ❗️ Closed issue [#392](https://github.com/nus-cs2103-AY2122S1/forum/issues/392) in [nus-cs2103-AY2122S1/forum](https://github.com/nus-cs2103-AY2122S1/forum)
+2. 🗣 Commented on [#392](https://github.com/nus-cs2103-AY2122S1/forum/issues/392) in [nus-cs2103-AY2122S1/forum](https://github.com/nus-cs2103-AY2122S1/forum)
+3. ❗️ Closed issue [#391](https://github.com/nus-cs2103-AY2122S1/forum/issues/391) in [nus-cs2103-AY2122S1/forum](https://github.com/nus-cs2103-AY2122S1/forum)
+4. 🗣 Commented on [#391](https://github.com/nus-cs2103-AY2122S1/forum/issues/391) in [nus-cs2103-AY2122S1/forum](https://github.com/nus-cs2103-AY2122S1/forum)
+5. ❗️ Closed issue [#335](https://github.com/nus-cs2103-AY2122S1/forum/issues/335) in [nus-cs2103-AY2122S1/forum](https://github.com/nus-cs2103-AY2122S1/forum)
 <!--END_SECTION:activity-->
 
 
