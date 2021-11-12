@@ -73,11 +73,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#18](https://github.com/AllardQuek/pe/issues/18) in [AllardQuek/pe](https://github.com/AllardQuek/pe)
-2. ❗️ Opened issue [#17](https://github.com/AllardQuek/pe/issues/17) in [AllardQuek/pe](https://github.com/AllardQuek/pe)
-3. ❗️ Opened issue [#16](https://github.com/AllardQuek/pe/issues/16) in [AllardQuek/pe](https://github.com/AllardQuek/pe)
-4. ❗️ Opened issue [#15](https://github.com/AllardQuek/pe/issues/15) in [AllardQuek/pe](https://github.com/AllardQuek/pe)
-5. ❗️ Opened issue [#14](https://github.com/AllardQuek/pe/issues/14) in [AllardQuek/pe](https://github.com/AllardQuek/pe)
+1. ❗️ Opened issue [#29](https://github.com/AllardQuek/pe/issues/29) in [AllardQuek/pe](https://github.com/AllardQuek/pe)
+2. ❗️ Opened issue [#28](https://github.com/AllardQuek/pe/issues/28) in [AllardQuek/pe](https://github.com/AllardQuek/pe)
+3. ❗️ Opened issue [#27](https://github.com/AllardQuek/pe/issues/27) in [AllardQuek/pe](https://github.com/AllardQuek/pe)
+4. ❗️ Opened issue [#26](https://github.com/AllardQuek/pe/issues/26) in [AllardQuek/pe](https://github.com/AllardQuek/pe)
+5. ❗️ Opened issue [#25](https://github.com/AllardQuek/pe/issues/25) in [AllardQuek/pe](https://github.com/AllardQuek/pe)
 <!--END_SECTION:activity-->
 
 
