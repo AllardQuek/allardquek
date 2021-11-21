@@ -73,11 +73,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#438](https://github.com/nus-cs2103-AY2122S1/forum/issues/438) in [nus-cs2103-AY2122S1/forum](https://github.com/nus-cs2103-AY2122S1/forum)
-2. 🗣 Commented on [#435](https://github.com/nus-cs2103-AY2122S1/forum/issues/435) in [nus-cs2103-AY2122S1/forum](https://github.com/nus-cs2103-AY2122S1/forum)
-3. 🗣 Commented on [#434](https://github.com/nus-cs2103-AY2122S1/forum/issues/434) in [nus-cs2103-AY2122S1/forum](https://github.com/nus-cs2103-AY2122S1/forum)
-4. 🗣 Commented on [#421](https://github.com/nus-cs2103-AY2122S1/forum/issues/421) in [nus-cs2103-AY2122S1/forum](https://github.com/nus-cs2103-AY2122S1/forum)
-5. 🗣 Commented on [#5056](https://github.com/nus-cs2103-AY2122S1/pe-dev-response/issues/5056) in [nus-cs2103-AY2122S1/pe-dev-response](https://github.com/nus-cs2103-AY2122S1/pe-dev-response)
+1. 🗣 Commented on [#438](https://github.com/nus-cs2103-AY2122S1/forum/issues/438) in [nus-cs2103-AY2122S1/forum](https://github.com/nus-cs2103-AY2122S1/forum)
+2. ❗️ Closed issue [#438](https://github.com/nus-cs2103-AY2122S1/forum/issues/438) in [nus-cs2103-AY2122S1/forum](https://github.com/nus-cs2103-AY2122S1/forum)
+3. ❗️ Opened issue [#438](https://github.com/nus-cs2103-AY2122S1/forum/issues/438) in [nus-cs2103-AY2122S1/forum](https://github.com/nus-cs2103-AY2122S1/forum)
+4. 🗣 Commented on [#435](https://github.com/nus-cs2103-AY2122S1/forum/issues/435) in [nus-cs2103-AY2122S1/forum](https://github.com/nus-cs2103-AY2122S1/forum)
+5. 🗣 Commented on [#434](https://github.com/nus-cs2103-AY2122S1/forum/issues/434) in [nus-cs2103-AY2122S1/forum](https://github.com/nus-cs2103-AY2122S1/forum)
 <!--END_SECTION:activity-->
 
 
