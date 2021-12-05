@@ -62,11 +62,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Don&#39;t Miss These 6 VS Code Tips and Tricks](https://www.youtube.com/watch?v=HmNoTyRsja4)
 - [PostgreSQLx pgAdmin | 8 Essential Keyboard Shortcuts to Maximise Your Productivity](https://www.youtube.com/watch?v=U5RjM97sClw)
 - [Full ZSH Customization &lpar;iTerm2 + Oh My Zsh + Auto-suggestions + Syntax Highlighting&rpar;](https://www.youtube.com/watch?v=JepfAZY3ekE)
 - [Writing Better READMEs &lpar;Markdown + GitHub Workflows&rpar;](https://www.youtube.com/watch?v=37TiMGLHd_Q)
 - [VS Code Extensions | Web Edition](https://www.youtube.com/watch?v=s2xnIAThgYc)
-- [VS Code Extensions You Probably Didn&#39;t Know About](https://www.youtube.com/watch?v=i6Ti5AHAe94)
 <!-- YOUTUBE:END -->
 
 
