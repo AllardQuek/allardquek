@@ -73,11 +73,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/AllardQuek/CS3245/pull/1) in [AllardQuek/CS3245](https://github.com/AllardQuek/CS3245)
-2. 🗣 Commented on [#143](https://github.com/nus-cs2103-AY2122S2/forum/issues/143) in [nus-cs2103-AY2122S2/forum](https://github.com/nus-cs2103-AY2122S2/forum)
+1. 🎉 Merged PR [#1](https://github.com/AllardQuek/CS3245/pull/1) in [AllardQuek/CS3245](https://github.com/AllardQuek/CS3245)
+2. 💪 Opened PR [#1](https://github.com/AllardQuek/CS3245/pull/1) in [AllardQuek/CS3245](https://github.com/AllardQuek/CS3245)
 3. 🗣 Commented on [#143](https://github.com/nus-cs2103-AY2122S2/forum/issues/143) in [nus-cs2103-AY2122S2/forum](https://github.com/nus-cs2103-AY2122S2/forum)
-4. 🗣 Commented on [#20](https://github.com/nus-tic4002-AY2122s2/forum/issues/20) in [nus-tic4002-AY2122s2/forum](https://github.com/nus-tic4002-AY2122s2/forum)
-5. 🗣 Commented on [#126](https://github.com/nus-cs2103-AY2122S2/forum/issues/126) in [nus-cs2103-AY2122S2/forum](https://github.com/nus-cs2103-AY2122S2/forum)
+4. 🗣 Commented on [#143](https://github.com/nus-cs2103-AY2122S2/forum/issues/143) in [nus-cs2103-AY2122S2/forum](https://github.com/nus-cs2103-AY2122S2/forum)
+5. 🗣 Commented on [#20](https://github.com/nus-tic4002-AY2122s2/forum/issues/20) in [nus-tic4002-AY2122s2/forum](https://github.com/nus-tic4002-AY2122s2/forum)
 <!--END_SECTION:activity-->
 
 
