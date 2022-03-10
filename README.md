@@ -31,9 +31,9 @@
 
 ### Connect with Me:
 
-[<img align="left" alt="www.allardquek.tech" width="22px" src="https://image.flaticon.com/icons/png/512/3719/3719350.png" />][website]
-[<img align="left" alt="ProgrammerError | YouTube" width="22px" src="https://image.flaticon.com/icons/png/512/1384/1384060.png" />][youtube]
-[<img align="left" alt="allard-quek | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+[<img align="left" alt="www.allardquek.tech" width="22px" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" />][website]
+[<img align="left" alt="ProgrammerError | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174883.png" />][youtube]
+[<img align="left" alt="allard-quek | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
 <br />
 
