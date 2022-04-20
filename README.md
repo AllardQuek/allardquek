@@ -73,11 +73,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/AllardQuek/CS3245/pull/8) in [AllardQuek/CS3245](https://github.com/AllardQuek/CS3245)
-2. 💪 Opened PR [#8](https://github.com/AllardQuek/CS3245/pull/8) in [AllardQuek/CS3245](https://github.com/AllardQuek/CS3245)
-3. 🎉 Merged PR [#7](https://github.com/AllardQuek/CS3245/pull/7) in [AllardQuek/CS3245](https://github.com/AllardQuek/CS3245)
-4. 💪 Opened PR [#7](https://github.com/AllardQuek/CS3245/pull/7) in [AllardQuek/CS3245](https://github.com/AllardQuek/CS3245)
-5. 🎉 Merged PR [#6](https://github.com/AllardQuek/CS3245/pull/6) in [AllardQuek/CS3245](https://github.com/AllardQuek/CS3245)
+1. 🎉 Merged PR [#9](https://github.com/AllardQuek/CS3245/pull/9) in [AllardQuek/CS3245](https://github.com/AllardQuek/CS3245)
+2. 💪 Opened PR [#9](https://github.com/AllardQuek/CS3245/pull/9) in [AllardQuek/CS3245](https://github.com/AllardQuek/CS3245)
+3. 🎉 Merged PR [#8](https://github.com/AllardQuek/CS3245/pull/8) in [AllardQuek/CS3245](https://github.com/AllardQuek/CS3245)
+4. 💪 Opened PR [#8](https://github.com/AllardQuek/CS3245/pull/8) in [AllardQuek/CS3245](https://github.com/AllardQuek/CS3245)
+5. 🎉 Merged PR [#7](https://github.com/AllardQuek/CS3245/pull/7) in [AllardQuek/CS3245](https://github.com/AllardQuek/CS3245)
 <!--END_SECTION:activity-->
 
 
