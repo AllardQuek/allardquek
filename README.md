@@ -62,11 +62,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Share it the right way.](https://www.youtube.com/watch?v=j-sDyplQGk4)
+- [Never Click a Search Bar Again](https://www.youtube.com/watch?v=eI3-b6j7x58)
 - [5 Unix/Linux Commands You Might Want to Know &lpar;using Bash, ZSH&rpar;](https://www.youtube.com/watch?v=fCGAy5WYSy4)
 - [2 Mind blowing Git Shortcuts in 2 Minutes](https://www.youtube.com/watch?v=Y5lSihdQ0uM)
 - [Notion | 7 Noteworthy Shortcuts You Could Be Missing Out On](https://www.youtube.com/watch?v=H1A-JybeCtQ)
-- [Notion | 7 Shortcuts To Edit In Style](https://www.youtube.com/watch?v=qQW7EsATpOY)
-- [Notion | 7 Essential Keyboard Shortcuts](https://www.youtube.com/watch?v=J7ZkkTu6fP8)
 <!-- YOUTUBE:END -->
 
 
