@@ -62,11 +62,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Get your FREE domain from Namecheap &lpar;with GitHub Student Developer Pack&rpar;](https://www.youtube.com/watch?v=kYMn7ZiO83s)
 - [4 Must-Know Shortcuts For Gmail 😉](https://www.youtube.com/watch?v=sCnlvRwmovc)
 - [Most underrated Spotify feature &lpar;no, it’s not their song recommendations..&rpar;](https://www.youtube.com/watch?v=zeIJjYIApyE)
 - [Share it the right way](https://www.youtube.com/watch?v=j-sDyplQGk4)
 - [Never click a search bar again](https://www.youtube.com/watch?v=eI3-b6j7x58)
-- [5 Unix/Linux Commands You Might Want to Know &lpar;using Bash, ZSH&rpar;](https://www.youtube.com/watch?v=fCGAy5WYSy4)
 <!-- YOUTUBE:END -->
 
 
