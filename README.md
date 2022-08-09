@@ -62,11 +62,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Better watch your typos 🥶](https://www.youtube.com/watch?v=wkR8bDBxn18)
 - [He’s a 10 but doesn’t know how to use THIS command](https://www.youtube.com/watch?v=foAQvBqi_bQ)
 - [Horizontal scrolling without a horizontal scrolling mouse](https://www.youtube.com/watch?v=nNo76r8_m9M)
 - [Mastering Google Drive #speedrun](https://www.youtube.com/watch?v=U4zOSgZmq9s)
 - [Get your FREE domain from Namecheap &lpar;with GitHub Student Developer Pack&rpar;](https://www.youtube.com/watch?v=kYMn7ZiO83s)
-- [4 Must-Know Shortcuts For Gmail 😉](https://www.youtube.com/watch?v=sCnlvRwmovc)
 <!-- YOUTUBE:END -->
 
 
