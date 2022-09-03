@@ -73,8 +73,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/infofabrik/reportserver-samples/pull/1) in [infofabrik/reportserver-samples](https://github.com/infofabrik/reportserver-samples)
-2. 🎉 Merged PR [#9](https://github.com/AllardQuek/CS3245/pull/9) in [AllardQuek/CS3245](https://github.com/AllardQuek/CS3245)
+1. 🗣 Commented on [#138](https://github.com/nus-cs2103-AY2223S1/forum/issues/138) in [nus-cs2103-AY2223S1/forum](https://github.com/nus-cs2103-AY2223S1/forum)
+2. 💪 Opened PR [#1](https://github.com/infofabrik/reportserver-samples/pull/1) in [infofabrik/reportserver-samples](https://github.com/infofabrik/reportserver-samples)
 3. 💪 Opened PR [#9](https://github.com/AllardQuek/CS3245/pull/9) in [AllardQuek/CS3245](https://github.com/AllardQuek/CS3245)
 4. 🎉 Merged PR [#8](https://github.com/AllardQuek/CS3245/pull/8) in [AllardQuek/CS3245](https://github.com/AllardQuek/CS3245)
 5. 💪 Opened PR [#8](https://github.com/AllardQuek/CS3245/pull/8) in [AllardQuek/CS3245](https://github.com/AllardQuek/CS3245)
