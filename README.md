@@ -73,11 +73,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#12006](https://github.com/TEAMMATES/teammates/issues/12006) in [TEAMMATES/teammates](https://github.com/TEAMMATES/teammates)
-2. 🗣 Commented on [#12006](https://github.com/TEAMMATES/teammates/issues/12006) in [TEAMMATES/teammates](https://github.com/TEAMMATES/teammates)
-3. ❗️ Opened issue [#12006](https://github.com/TEAMMATES/teammates/issues/12006) in [TEAMMATES/teammates](https://github.com/TEAMMATES/teammates)
-4. 🎉 Merged PR [#8](https://github.com/AllardQuek/CS3245/pull/8) in [AllardQuek/CS3245](https://github.com/AllardQuek/CS3245)
-5. 💪 Opened PR [#8](https://github.com/AllardQuek/CS3245/pull/8) in [AllardQuek/CS3245](https://github.com/AllardQuek/CS3245)
+1. 💪 Opened PR [#1](https://github.com/AllardQuek/markbind/pull/1) in [AllardQuek/markbind](https://github.com/AllardQuek/markbind)
+2. ❌ Closed PR [#2060](https://github.com/MarkBind/markbind/pull/2060) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+3. 💪 Opened PR [#2060](https://github.com/MarkBind/markbind/pull/2060) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+4. ❗️ Closed issue [#12006](https://github.com/TEAMMATES/teammates/issues/12006) in [TEAMMATES/teammates](https://github.com/TEAMMATES/teammates)
+5. 🗣 Commented on [#12006](https://github.com/TEAMMATES/teammates/issues/12006) in [TEAMMATES/teammates](https://github.com/TEAMMATES/teammates)
 <!--END_SECTION:activity-->
 
 
