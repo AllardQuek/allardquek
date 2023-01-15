@@ -75,11 +75,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/AllardQuek/markbind/pull/1) in [AllardQuek/markbind](https://github.com/AllardQuek/markbind)
-2. ❌ Closed PR [#2060](https://github.com/MarkBind/markbind/pull/2060) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-3. 💪 Opened PR [#2060](https://github.com/MarkBind/markbind/pull/2060) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-4. ❗️ Closed issue [#12006](https://github.com/TEAMMATES/teammates/issues/12006) in [TEAMMATES/teammates](https://github.com/TEAMMATES/teammates)
-5. 🗣 Commented on [#12006](https://github.com/TEAMMATES/teammates/issues/12006) in [TEAMMATES/teammates](https://github.com/TEAMMATES/teammates)
+1. ❗️ Opened issue [#55](https://github.com/Clariity/react-chessboard/issues/55) in [Clariity/react-chessboard](https://github.com/Clariity/react-chessboard)
+2. 💪 Opened PR [#1](https://github.com/AllardQuek/markbind/pull/1) in [AllardQuek/markbind](https://github.com/AllardQuek/markbind)
+3. ❌ Closed PR [#2060](https://github.com/MarkBind/markbind/pull/2060) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+4. 💪 Opened PR [#2060](https://github.com/MarkBind/markbind/pull/2060) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+5. ❗️ Closed issue [#12006](https://github.com/TEAMMATES/teammates/issues/12006) in [TEAMMATES/teammates](https://github.com/TEAMMATES/teammates)
 <!--END_SECTION:activity-->
 
 
