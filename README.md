@@ -75,11 +75,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#55](https://github.com/Clariity/react-chessboard/issues/55) in [Clariity/react-chessboard](https://github.com/Clariity/react-chessboard)
-2. 🗣 Commented on [#55](https://github.com/Clariity/react-chessboard/issues/55) in [Clariity/react-chessboard](https://github.com/Clariity/react-chessboard)
+1. 🎉 Merged PR [#1](https://github.com/AllardQuek/TripInspire/pull/1) in [AllardQuek/TripInspire](https://github.com/AllardQuek/TripInspire)
+2. ❗️ Closed issue [#55](https://github.com/Clariity/react-chessboard/issues/55) in [Clariity/react-chessboard](https://github.com/Clariity/react-chessboard)
 3. 🗣 Commented on [#55](https://github.com/Clariity/react-chessboard/issues/55) in [Clariity/react-chessboard](https://github.com/Clariity/react-chessboard)
-4. ❗️ Opened issue [#55](https://github.com/Clariity/react-chessboard/issues/55) in [Clariity/react-chessboard](https://github.com/Clariity/react-chessboard)
-5. 💪 Opened PR [#1](https://github.com/AllardQuek/markbind/pull/1) in [AllardQuek/markbind](https://github.com/AllardQuek/markbind)
+4. 🗣 Commented on [#55](https://github.com/Clariity/react-chessboard/issues/55) in [Clariity/react-chessboard](https://github.com/Clariity/react-chessboard)
+5. ❗️ Opened issue [#55](https://github.com/Clariity/react-chessboard/issues/55) in [Clariity/react-chessboard](https://github.com/Clariity/react-chessboard)
 <!--END_SECTION:activity-->
 
 
