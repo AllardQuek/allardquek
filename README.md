@@ -76,10 +76,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#5136](https://github.com/apache/jmeter/issues/5136) in [apache/jmeter](https://github.com/apache/jmeter)
-2. ❗️ Opened issue [#5](https://github.com/etsi-cti-admin/robotframework-mockserver/issues/5) in [etsi-cti-admin/robotframework-mockserver](https://github.com/etsi-cti-admin/robotframework-mockserver)
-3. 🎉 Merged PR [#2](https://github.com/AllardQuek/TripInspire/pull/2) in [AllardQuek/TripInspire](https://github.com/AllardQuek/TripInspire)
-4. 🎉 Merged PR [#1](https://github.com/AllardQuek/TripInspire/pull/1) in [AllardQuek/TripInspire](https://github.com/AllardQuek/TripInspire)
-5. 🗣 Commented on [#55](https://github.com/Clariity/react-chessboard/issues/55) in [Clariity/react-chessboard](https://github.com/Clariity/react-chessboard)
+2. 🗣 Commented on [#5136](https://github.com/apache/jmeter/issues/5136) in [apache/jmeter](https://github.com/apache/jmeter)
+3. ❗️ Opened issue [#5](https://github.com/etsi-cti-admin/robotframework-mockserver/issues/5) in [etsi-cti-admin/robotframework-mockserver](https://github.com/etsi-cti-admin/robotframework-mockserver)
+4. 🎉 Merged PR [#2](https://github.com/AllardQuek/TripInspire/pull/2) in [AllardQuek/TripInspire](https://github.com/AllardQuek/TripInspire)
+5. 🎉 Merged PR [#1](https://github.com/AllardQuek/TripInspire/pull/1) in [AllardQuek/TripInspire](https://github.com/AllardQuek/TripInspire)
 <!--END_SECTION:activity-->
 
 
