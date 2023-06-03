@@ -75,11 +75,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13](https://github.com/AllardQuek/Purrductivity/pull/13) in [AllardQuek/Purrductivity](https://github.com/AllardQuek/Purrductivity)
-2. 🗣 Commented on [#12](https://github.com/AllardQuek/Purrductivity/issues/12) in [AllardQuek/Purrductivity](https://github.com/AllardQuek/Purrductivity)
-3. 🎉 Merged PR [#9](https://github.com/AllardQuek/Purrductivity/pull/9) in [AllardQuek/Purrductivity](https://github.com/AllardQuek/Purrductivity)
-4. 🗣 Commented on [#9](https://github.com/AllardQuek/Purrductivity/issues/9) in [AllardQuek/Purrductivity](https://github.com/AllardQuek/Purrductivity)
-5. 🗣 Commented on [#5136](https://github.com/apache/jmeter/issues/5136) in [apache/jmeter](https://github.com/apache/jmeter)
+1. ❗ Opened issue [#14](https://github.com/AllardQuek/Purrductivity/issues/14) in [AllardQuek/Purrductivity](https://github.com/AllardQuek/Purrductivity)
+2. 🔒 Closed issue [#11](https://github.com/AllardQuek/Purrductivity/issues/11) in [AllardQuek/Purrductivity](https://github.com/AllardQuek/Purrductivity)
+3. 💪 Opened PR [#13](https://github.com/AllardQuek/Purrductivity/pull/13) in [AllardQuek/Purrductivity](https://github.com/AllardQuek/Purrductivity)
+4. 🗣 Commented on [#12](https://github.com/AllardQuek/Purrductivity/issues/12) in [AllardQuek/Purrductivity](https://github.com/AllardQuek/Purrductivity)
+5. 🎉 Merged PR [#9](https://github.com/AllardQuek/Purrductivity/pull/9) in [AllardQuek/Purrductivity](https://github.com/AllardQuek/Purrductivity)
 <!--END_SECTION:activity-->
 
 
