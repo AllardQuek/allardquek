@@ -75,11 +75,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#10](https://github.com/marcuspang/we-wallet/issues/10) in [marcuspang/we-wallet](https://github.com/marcuspang/we-wallet)
-2. ❗ Opened issue [#14](https://github.com/marcuspang/we-wallet/issues/14) in [marcuspang/we-wallet](https://github.com/marcuspang/we-wallet)
-3. 💪 Opened PR [#13](https://github.com/marcuspang/we-wallet/pull/13) in [marcuspang/we-wallet](https://github.com/marcuspang/we-wallet)
-4. 💪 Opened PR [#11](https://github.com/marcuspang/we-wallet/pull/11) in [marcuspang/we-wallet](https://github.com/marcuspang/we-wallet)
-5. 🗣 Commented on [#10](https://github.com/marcuspang/we-wallet/issues/10#issuecomment-1675794115) in [marcuspang/we-wallet](https://github.com/marcuspang/we-wallet)
+1. 🗣 Commented on [#4](https://github.com/marcuspang/we-wallet/issues/4#issuecomment-1675960146) in [marcuspang/we-wallet](https://github.com/marcuspang/we-wallet)
+2. 🔒 Closed issue [#10](https://github.com/marcuspang/we-wallet/issues/10) in [marcuspang/we-wallet](https://github.com/marcuspang/we-wallet)
+3. ❗ Opened issue [#14](https://github.com/marcuspang/we-wallet/issues/14) in [marcuspang/we-wallet](https://github.com/marcuspang/we-wallet)
+4. 💪 Opened PR [#13](https://github.com/marcuspang/we-wallet/pull/13) in [marcuspang/we-wallet](https://github.com/marcuspang/we-wallet)
+5. 💪 Opened PR [#11](https://github.com/marcuspang/we-wallet/pull/11) in [marcuspang/we-wallet](https://github.com/marcuspang/we-wallet)
 <!--END_SECTION:activity-->
 
 
