@@ -75,11 +75,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/marcuspang/we-wallet/pull/11) in [marcuspang/we-wallet](https://github.com/marcuspang/we-wallet)
-2. 🗣 Commented on [#10](https://github.com/marcuspang/we-wallet/issues/10#issuecomment-1675794115) in [marcuspang/we-wallet](https://github.com/marcuspang/we-wallet)
-3. ❗ Opened issue [#10](https://github.com/marcuspang/app-monorepo/issues/10) in [marcuspang/app-monorepo](https://github.com/marcuspang/app-monorepo)
-4. 🗣 Commented on [#4](https://github.com/marcuspang/app-monorepo/issues/4#issuecomment-1675752212) in [marcuspang/app-monorepo](https://github.com/marcuspang/app-monorepo)
-5. 🗣 Commented on [#14](https://github.com/AllardQuek/Purrductivity/issues/14#issuecomment-1575342097) in [AllardQuek/Purrductivity](https://github.com/AllardQuek/Purrductivity)
+1. 💪 Opened PR [#13](https://github.com/marcuspang/we-wallet/pull/13) in [marcuspang/we-wallet](https://github.com/marcuspang/we-wallet)
+2. 💪 Opened PR [#11](https://github.com/marcuspang/we-wallet/pull/11) in [marcuspang/we-wallet](https://github.com/marcuspang/we-wallet)
+3. 🗣 Commented on [#10](https://github.com/marcuspang/we-wallet/issues/10#issuecomment-1675794115) in [marcuspang/we-wallet](https://github.com/marcuspang/we-wallet)
+4. ❗ Opened issue [#10](https://github.com/marcuspang/app-monorepo/issues/10) in [marcuspang/app-monorepo](https://github.com/marcuspang/app-monorepo)
+5. 🗣 Commented on [#4](https://github.com/marcuspang/app-monorepo/issues/4#issuecomment-1675752212) in [marcuspang/app-monorepo](https://github.com/marcuspang/app-monorepo)
 <!--END_SECTION:activity-->
 
 
