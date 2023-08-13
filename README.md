@@ -75,11 +75,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#14](https://github.com/marcuspang/we-wallet/issues/14) in [marcuspang/we-wallet](https://github.com/marcuspang/we-wallet)
-2. 🔒 Closed issue [#4](https://github.com/marcuspang/we-wallet/issues/4) in [marcuspang/we-wallet](https://github.com/marcuspang/we-wallet)
-3. 💪 Opened PR [#19](https://github.com/marcuspang/we-wallet/pull/19) in [marcuspang/we-wallet](https://github.com/marcuspang/we-wallet)
-4. ❗ Opened issue [#16](https://github.com/marcuspang/we-wallet/issues/16) in [marcuspang/we-wallet](https://github.com/marcuspang/we-wallet)
-5. 🔒 Closed issue [#3](https://github.com/marcuspang/we-wallet/issues/3) in [marcuspang/we-wallet](https://github.com/marcuspang/we-wallet)
+1. 🎉 Merged PR [#20](https://github.com/marcuspang/we-wallet/pull/20) in [marcuspang/we-wallet](https://github.com/marcuspang/we-wallet)
+2. 💪 Opened PR [#20](https://github.com/marcuspang/we-wallet/pull/20) in [marcuspang/we-wallet](https://github.com/marcuspang/we-wallet)
+3. ❌ Closed PR [#3392](https://github.com/OneKeyHQ/app-monorepo/pull/3392) in [OneKeyHQ/app-monorepo](https://github.com/OneKeyHQ/app-monorepo)
+4. 💪 Opened PR [#3392](https://github.com/OneKeyHQ/app-monorepo/pull/3392) in [OneKeyHQ/app-monorepo](https://github.com/OneKeyHQ/app-monorepo)
+5. 🔒 Closed issue [#14](https://github.com/marcuspang/we-wallet/issues/14) in [marcuspang/we-wallet](https://github.com/marcuspang/we-wallet)
 <!--END_SECTION:activity-->
 
 
