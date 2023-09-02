@@ -75,11 +75,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#16](https://github.com/ethwarsawhackers/frontend/issues/16) in [ethwarsawhackers/frontend](https://github.com/ethwarsawhackers/frontend)
-2. 🎉 Merged PR [#18](https://github.com/ethwarsawhackers/frontend/pull/18) in [ethwarsawhackers/frontend](https://github.com/ethwarsawhackers/frontend)
-3. 💪 Opened PR [#18](https://github.com/ethwarsawhackers/frontend/pull/18) in [ethwarsawhackers/frontend](https://github.com/ethwarsawhackers/frontend)
-4. ❗ Opened issue [#17](https://github.com/ethwarsawhackers/frontend/issues/17) in [ethwarsawhackers/frontend](https://github.com/ethwarsawhackers/frontend)
-5. ❗ Opened issue [#16](https://github.com/ethwarsawhackers/frontend/issues/16) in [ethwarsawhackers/frontend](https://github.com/ethwarsawhackers/frontend)
+1. 💪 Opened PR [#19](https://github.com/ethwarsawhackers/frontend/pull/19) in [ethwarsawhackers/frontend](https://github.com/ethwarsawhackers/frontend)
+2. 🔒 Closed issue [#16](https://github.com/ethwarsawhackers/frontend/issues/16) in [ethwarsawhackers/frontend](https://github.com/ethwarsawhackers/frontend)
+3. 🎉 Merged PR [#18](https://github.com/ethwarsawhackers/frontend/pull/18) in [ethwarsawhackers/frontend](https://github.com/ethwarsawhackers/frontend)
+4. 💪 Opened PR [#18](https://github.com/ethwarsawhackers/frontend/pull/18) in [ethwarsawhackers/frontend](https://github.com/ethwarsawhackers/frontend)
+5. ❗ Opened issue [#17](https://github.com/ethwarsawhackers/frontend/issues/17) in [ethwarsawhackers/frontend](https://github.com/ethwarsawhackers/frontend)
 <!--END_SECTION:activity-->
 
 
