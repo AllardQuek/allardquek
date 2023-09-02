@@ -75,11 +75,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#14](https://github.com/AllardQuek/MediaTE/issues/14) in [AllardQuek/MediaTE](https://github.com/AllardQuek/MediaTE)
-2. ❗ Opened issue [#13](https://github.com/AllardQuek/MediaTE/issues/13) in [AllardQuek/MediaTE](https://github.com/AllardQuek/MediaTE)
-3. ❗ Opened issue [#12](https://github.com/AllardQuek/MediaTE/issues/12) in [AllardQuek/MediaTE](https://github.com/AllardQuek/MediaTE)
-4. ❗ Opened issue [#11](https://github.com/AllardQuek/MediaTE/issues/11) in [AllardQuek/MediaTE](https://github.com/AllardQuek/MediaTE)
-5. ❗ Opened issue [#10](https://github.com/AllardQuek/MediaTE/issues/10) in [AllardQuek/MediaTE](https://github.com/AllardQuek/MediaTE)
+1. ❗ Opened issue [#17](https://github.com/ethwarsawhackers/frontend/issues/17) in [ethwarsawhackers/frontend](https://github.com/ethwarsawhackers/frontend)
+2. ❗ Opened issue [#16](https://github.com/ethwarsawhackers/frontend/issues/16) in [ethwarsawhackers/frontend](https://github.com/ethwarsawhackers/frontend)
+3. ❗ Opened issue [#15](https://github.com/ethwarsawhackers/frontend/issues/15) in [ethwarsawhackers/frontend](https://github.com/ethwarsawhackers/frontend)
+4. ❗ Opened issue [#14](https://github.com/ethwarsawhackers/frontend/issues/14) in [ethwarsawhackers/frontend](https://github.com/ethwarsawhackers/frontend)
+5. ❗ Opened issue [#13](https://github.com/ethwarsawhackers/frontend/issues/13) in [ethwarsawhackers/frontend](https://github.com/ethwarsawhackers/frontend)
 <!--END_SECTION:activity-->
 
 
