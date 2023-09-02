@@ -75,11 +75,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/ethwarsawhackers/frontend/pull/10) in [ethwarsawhackers/frontend](https://github.com/ethwarsawhackers/frontend)
-2. 💪 Opened PR [#10](https://github.com/ethwarsawhackers/frontend/pull/10) in [ethwarsawhackers/frontend](https://github.com/ethwarsawhackers/frontend)
-3. 🎉 Merged PR [#21](https://github.com/marcuspang/we-wallet/pull/21) in [marcuspang/we-wallet](https://github.com/marcuspang/we-wallet)
-4. 💪 Opened PR [#21](https://github.com/marcuspang/we-wallet/pull/21) in [marcuspang/we-wallet](https://github.com/marcuspang/we-wallet)
-5. 🎉 Merged PR [#20](https://github.com/marcuspang/we-wallet/pull/20) in [marcuspang/we-wallet](https://github.com/marcuspang/we-wallet)
+1. 🎉 Merged PR [#11](https://github.com/ethwarsawhackers/frontend/pull/11) in [ethwarsawhackers/frontend](https://github.com/ethwarsawhackers/frontend)
+2. 💪 Opened PR [#11](https://github.com/ethwarsawhackers/frontend/pull/11) in [ethwarsawhackers/frontend](https://github.com/ethwarsawhackers/frontend)
+3. 🎉 Merged PR [#10](https://github.com/ethwarsawhackers/frontend/pull/10) in [ethwarsawhackers/frontend](https://github.com/ethwarsawhackers/frontend)
+4. 💪 Opened PR [#10](https://github.com/ethwarsawhackers/frontend/pull/10) in [ethwarsawhackers/frontend](https://github.com/ethwarsawhackers/frontend)
+5. 🎉 Merged PR [#21](https://github.com/marcuspang/we-wallet/pull/21) in [marcuspang/we-wallet](https://github.com/marcuspang/we-wallet)
 <!--END_SECTION:activity-->
 
 
