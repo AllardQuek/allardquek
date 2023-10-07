@@ -75,11 +75,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#12](https://github.com/ethwarsawhackers/frontend/issues/12) in [ethwarsawhackers/frontend](https://github.com/ethwarsawhackers/frontend)
-2. 🔒 Closed issue [#13](https://github.com/ethwarsawhackers/frontend/issues/13) in [ethwarsawhackers/frontend](https://github.com/ethwarsawhackers/frontend)
-3. 🎉 Merged PR [#21](https://github.com/ethwarsawhackers/frontend/pull/21) in [ethwarsawhackers/frontend](https://github.com/ethwarsawhackers/frontend)
-4. 💪 Opened PR [#21](https://github.com/ethwarsawhackers/frontend/pull/21) in [ethwarsawhackers/frontend](https://github.com/ethwarsawhackers/frontend)
-5. 🎉 Merged PR [#20](https://github.com/ethwarsawhackers/frontend/pull/20) in [ethwarsawhackers/frontend](https://github.com/ethwarsawhackers/frontend)
+1. ❗ Opened issue [#8](https://github.com/Squalome/squalo/issues/8) in [Squalome/squalo](https://github.com/Squalome/squalo)
+2. ❗ Opened issue [#7](https://github.com/Squalome/squalo/issues/7) in [Squalome/squalo](https://github.com/Squalome/squalo)
+3. ❗ Opened issue [#6](https://github.com/Squalome/squalo/issues/6) in [Squalome/squalo](https://github.com/Squalome/squalo)
+4. ❗ Opened issue [#5](https://github.com/Squalome/squalo/issues/5) in [Squalome/squalo](https://github.com/Squalome/squalo)
+5. ❗ Opened issue [#4](https://github.com/Squalome/squalo/issues/4) in [Squalome/squalo](https://github.com/Squalome/squalo)
 <!--END_SECTION:activity-->
 
 
