@@ -75,11 +75,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#8](https://github.com/Squalome/squalo/issues/8) in [Squalome/squalo](https://github.com/Squalome/squalo)
-2. ❗ Opened issue [#7](https://github.com/Squalome/squalo/issues/7) in [Squalome/squalo](https://github.com/Squalome/squalo)
-3. ❗ Opened issue [#6](https://github.com/Squalome/squalo/issues/6) in [Squalome/squalo](https://github.com/Squalome/squalo)
-4. ❗ Opened issue [#5](https://github.com/Squalome/squalo/issues/5) in [Squalome/squalo](https://github.com/Squalome/squalo)
-5. ❗ Opened issue [#4](https://github.com/Squalome/squalo/issues/4) in [Squalome/squalo](https://github.com/Squalome/squalo)
+1. 🔒 Closed issue [#1](https://github.com/Squalome/sharknado/issues/1) in [Squalome/sharknado](https://github.com/Squalome/sharknado)
+2. 🗣 Commented on [#1](https://github.com/Squalome/sharknado/issues/1#issuecomment-1751656368) in [Squalome/sharknado](https://github.com/Squalome/sharknado)
+3. ❗ Opened issue [#8](https://github.com/Squalome/squalo/issues/8) in [Squalome/squalo](https://github.com/Squalome/squalo)
+4. ❗ Opened issue [#7](https://github.com/Squalome/squalo/issues/7) in [Squalome/squalo](https://github.com/Squalome/squalo)
+5. ❗ Opened issue [#6](https://github.com/Squalome/squalo/issues/6) in [Squalome/squalo](https://github.com/Squalome/squalo)
 <!--END_SECTION:activity-->
 
 
