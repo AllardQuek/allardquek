@@ -75,11 +75,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/svalls26/dETHlegacy/pull/13) in [svalls26/dETHlegacy](https://github.com/svalls26/dETHlegacy)
-2. 💪 Opened PR [#13](https://github.com/svalls26/dETHlegacy/pull/13) in [svalls26/dETHlegacy](https://github.com/svalls26/dETHlegacy)
-3. ❌ Closed PR [#1](https://github.com/noverney/randoms/pull/1) in [noverney/randoms](https://github.com/noverney/randoms)
-4. 🗣 Commented on [#1](https://github.com/noverney/randoms/pull/1#issuecomment-1784209019) in [noverney/randoms](https://github.com/noverney/randoms)
-5. 💪 Opened PR [#1](https://github.com/noverney/randoms/pull/1) in [noverney/randoms](https://github.com/noverney/randoms)
+1. 🔒 Closed issue [#10](https://github.com/svalls26/dETHlegacy/issues/10) in [svalls26/dETHlegacy](https://github.com/svalls26/dETHlegacy)
+2. 🎉 Merged PR [#13](https://github.com/svalls26/dETHlegacy/pull/13) in [svalls26/dETHlegacy](https://github.com/svalls26/dETHlegacy)
+3. 💪 Opened PR [#13](https://github.com/svalls26/dETHlegacy/pull/13) in [svalls26/dETHlegacy](https://github.com/svalls26/dETHlegacy)
+4. ❌ Closed PR [#1](https://github.com/noverney/randoms/pull/1) in [noverney/randoms](https://github.com/noverney/randoms)
+5. 🗣 Commented on [#1](https://github.com/noverney/randoms/pull/1#issuecomment-1784209019) in [noverney/randoms](https://github.com/noverney/randoms)
 <!--END_SECTION:activity-->
 
 
