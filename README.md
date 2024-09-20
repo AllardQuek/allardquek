@@ -9,12 +9,12 @@
 <details>
   <summary>🔭 Who am I?</summary>
   
-      I’m Allard, a Computer Science undergraduate at the National University of Singapore.
+      I’m Allard, a recent Computer Science graduate from the National University of Singapore (NUS).
 </details>
 <details>
   <summary>🌱 What are my interests?</summary>
-  
-      I'm interested in Web Development, Machine Learning and more!
+
+      I'm interested in Blockchain, Web Development, Machine Learning and more!
 </details>
 <details>
   <summary>⚡ Fun fact?</summary>
