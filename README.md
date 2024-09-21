@@ -77,11 +77,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/akhemraj/ethglobalSG-easytasks/pull/5) in [akhemraj/ethglobalSG-easytasks](https://github.com/akhemraj/ethglobalSG-easytasks)
-2. 💪 Opened PR [#5](https://github.com/akhemraj/ethglobalSG-easytasks/pull/5) in [akhemraj/ethglobalSG-easytasks](https://github.com/akhemraj/ethglobalSG-easytasks)
-3. 🎉 Merged PR [#4](https://github.com/akhemraj/ethglobalSG-easytasks/pull/4) in [akhemraj/ethglobalSG-easytasks](https://github.com/akhemraj/ethglobalSG-easytasks)
-4. 💪 Opened PR [#4](https://github.com/akhemraj/ethglobalSG-easytasks/pull/4) in [akhemraj/ethglobalSG-easytasks](https://github.com/akhemraj/ethglobalSG-easytasks)
-5. 🗣 Commented on [#1](https://github.com/noverney/randoms/pull/1#issuecomment-1784209019) in [noverney/randoms](https://github.com/noverney/randoms)
+1. 💪 Opened PR [#7](https://github.com/akhemraj/ethglobalSG-easytasks/pull/7) in [akhemraj/ethglobalSG-easytasks](https://github.com/akhemraj/ethglobalSG-easytasks)
+2. 🎉 Merged PR [#5](https://github.com/akhemraj/ethglobalSG-easytasks/pull/5) in [akhemraj/ethglobalSG-easytasks](https://github.com/akhemraj/ethglobalSG-easytasks)
+3. 💪 Opened PR [#5](https://github.com/akhemraj/ethglobalSG-easytasks/pull/5) in [akhemraj/ethglobalSG-easytasks](https://github.com/akhemraj/ethglobalSG-easytasks)
+4. 🎉 Merged PR [#4](https://github.com/akhemraj/ethglobalSG-easytasks/pull/4) in [akhemraj/ethglobalSG-easytasks](https://github.com/akhemraj/ethglobalSG-easytasks)
+5. 💪 Opened PR [#4](https://github.com/akhemraj/ethglobalSG-easytasks/pull/4) in [akhemraj/ethglobalSG-easytasks](https://github.com/akhemraj/ethglobalSG-easytasks)
 <!--END_SECTION:activity-->
 
 
