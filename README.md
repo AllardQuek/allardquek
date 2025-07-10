@@ -77,9 +77,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/AllardQuek/AI-Concierge/pull/2) in [AllardQuek/AI-Concierge](https://github.com/AllardQuek/AI-Concierge)
-2. 🚀 Published release [v1: 1-1 Calls](https://github.com/AllardQuek/AI-Concierge/releases/tag/v1.0) in [AllardQuek/AI-Concierge](https://github.com/AllardQuek/AI-Concierge)
-3. 🗣 Commented on [#43209](https://github.com/apache/airflow/issues/43209#issuecomment-2439345915) in [apache/airflow](https://github.com/apache/airflow)
+1. 🎉 Merged PR [#2](https://github.com/AllardQuek/AI-Concierge/pull/2) in [AllardQuek/AI-Concierge](https://github.com/AllardQuek/AI-Concierge)
+2. 💪 Opened PR [#2](https://github.com/AllardQuek/AI-Concierge/pull/2) in [AllardQuek/AI-Concierge](https://github.com/AllardQuek/AI-Concierge)
+3. 🚀 Published release [v1: 1-1 Calls](https://github.com/AllardQuek/AI-Concierge/releases/tag/v1.0) in [AllardQuek/AI-Concierge](https://github.com/AllardQuek/AI-Concierge)
 4. 🎉 Merged PR [#10](https://github.com/akhemraj/ethglobalSG-easytasks/pull/10) in [akhemraj/ethglobalSG-easytasks](https://github.com/akhemraj/ethglobalSG-easytasks)
 5. 💪 Opened PR [#10](https://github.com/akhemraj/ethglobalSG-easytasks/pull/10) in [akhemraj/ethglobalSG-easytasks](https://github.com/akhemraj/ethglobalSG-easytasks)
 <!--END_SECTION:activity-->
