@@ -77,11 +77,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Calls with LiveKit](https://github.com/AllardQuek/AI-Concierge/releases/tag/v1.1) in [AllardQuek/AI-Concierge](https://github.com/AllardQuek/AI-Concierge)
-2. 🎉 Merged PR [#2](https://github.com/AllardQuek/AI-Concierge/pull/2) in [AllardQuek/AI-Concierge](https://github.com/AllardQuek/AI-Concierge)
-3. 💪 Opened PR [#2](https://github.com/AllardQuek/AI-Concierge/pull/2) in [AllardQuek/AI-Concierge](https://github.com/AllardQuek/AI-Concierge)
-4. 🚀 Published release [v1: 1-1 Calls](https://github.com/AllardQuek/AI-Concierge/releases/tag/v1.0) in [AllardQuek/AI-Concierge](https://github.com/AllardQuek/AI-Concierge)
-5. 💪 Opened PR [#10](https://github.com/akhemraj/ethglobalSG-easytasks/pull/10) in [akhemraj/ethglobalSG-easytasks](https://github.com/akhemraj/ethglobalSG-easytasks)
+1. 🎉 Merged PR [#3](https://github.com/AllardQuek/AI-Concierge/pull/3) in [AllardQuek/AI-Concierge](https://github.com/AllardQuek/AI-Concierge)
+2. 💪 Opened PR [#3](https://github.com/AllardQuek/AI-Concierge/pull/3) in [AllardQuek/AI-Concierge](https://github.com/AllardQuek/AI-Concierge)
+3. 🚀 Published release [Calls with LiveKit](https://github.com/AllardQuek/AI-Concierge/releases/tag/v1.1) in [AllardQuek/AI-Concierge](https://github.com/AllardQuek/AI-Concierge)
+4. 🎉 Merged PR [#2](https://github.com/AllardQuek/AI-Concierge/pull/2) in [AllardQuek/AI-Concierge](https://github.com/AllardQuek/AI-Concierge)
+5. 💪 Opened PR [#2](https://github.com/AllardQuek/AI-Concierge/pull/2) in [AllardQuek/AI-Concierge](https://github.com/AllardQuek/AI-Concierge)
 <!--END_SECTION:activity-->
 
 
