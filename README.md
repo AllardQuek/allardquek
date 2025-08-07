@@ -77,10 +77,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5](https://github.com/AllardQuek/AI-Concierge/issues/5) in [AllardQuek/AI-Concierge](https://github.com/AllardQuek/AI-Concierge)
-2. ❗ Opened issue [#4](https://github.com/AllardQuek/AI-Concierge/issues/4) in [AllardQuek/AI-Concierge](https://github.com/AllardQuek/AI-Concierge)
-3. 🎉 Merged PR [#3](https://github.com/AllardQuek/AI-Concierge/pull/3) in [AllardQuek/AI-Concierge](https://github.com/AllardQuek/AI-Concierge)
-4. 💪 Opened PR [#3](https://github.com/AllardQuek/AI-Concierge/pull/3) in [AllardQuek/AI-Concierge](https://github.com/AllardQuek/AI-Concierge)
+1. 🔒 Closed issue [#4](https://github.com/AllardQuek/AI-Concierge/issues/4) in [AllardQuek/AI-Concierge](https://github.com/AllardQuek/AI-Concierge)
+2. ❗ Opened issue [#5](https://github.com/AllardQuek/AI-Concierge/issues/5) in [AllardQuek/AI-Concierge](https://github.com/AllardQuek/AI-Concierge)
+3. ❗ Opened issue [#4](https://github.com/AllardQuek/AI-Concierge/issues/4) in [AllardQuek/AI-Concierge](https://github.com/AllardQuek/AI-Concierge)
+4. 💪 Opened PR [#3](undefined) in [AllardQuek/AI-Concierge](https://github.com/AllardQuek/AI-Concierge)
 5. 🚀 Published release [Calls with LiveKit](https://github.com/AllardQuek/AI-Concierge/releases/tag/v1.1) in [AllardQuek/AI-Concierge](https://github.com/AllardQuek/AI-Concierge)
 <!--END_SECTION:activity-->
 
