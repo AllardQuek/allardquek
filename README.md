@@ -77,11 +77,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2](https://github.com/AllardQuek/FPL-Wrapped/issues/2) in [AllardQuek/FPL-Wrapped](https://github.com/AllardQuek/FPL-Wrapped)
-2. 🗣 Commented on [#2](https://github.com/AllardQuek/FPL-Wrapped/issues/2#issuecomment-3706267179) in [AllardQuek/FPL-Wrapped](https://github.com/AllardQuek/FPL-Wrapped)
-3. ℹ️ Labeled issue [#7](https://github.com/AllardQuek/FPL-Wrapped/issues/7) in [AllardQuek/FPL-Wrapped](https://github.com/AllardQuek/FPL-Wrapped)
-4. ❗ Opened issue [#7](https://github.com/AllardQuek/FPL-Wrapped/issues/7) in [AllardQuek/FPL-Wrapped](https://github.com/AllardQuek/FPL-Wrapped)
-5. 🔒 Closed issue [#1](https://github.com/AllardQuek/FPL-Wrapped/issues/1) in [AllardQuek/FPL-Wrapped](https://github.com/AllardQuek/FPL-Wrapped)
+1. 🗣 Commented on [#7](https://github.com/AllardQuek/FPL-Wrapped/issues/7#issuecomment-3706693976) in [AllardQuek/FPL-Wrapped](https://github.com/AllardQuek/FPL-Wrapped)
+2. 🔒 Closed issue [#8](https://github.com/AllardQuek/FPL-Wrapped/issues/8) in [AllardQuek/FPL-Wrapped](https://github.com/AllardQuek/FPL-Wrapped)
+3. ℹ️ Labeled issue [#8](https://github.com/AllardQuek/FPL-Wrapped/issues/8) in [AllardQuek/FPL-Wrapped](https://github.com/AllardQuek/FPL-Wrapped)
+4. ❗ Opened issue [#8](https://github.com/AllardQuek/FPL-Wrapped/issues/8) in [AllardQuek/FPL-Wrapped](https://github.com/AllardQuek/FPL-Wrapped)
+5. 🔒 Closed issue [#4](https://github.com/AllardQuek/FPL-Wrapped/issues/4) in [AllardQuek/FPL-Wrapped](https://github.com/AllardQuek/FPL-Wrapped)
 <!--END_SECTION:activity-->
 
 
