@@ -77,11 +77,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/AllardQuek/FPL-Wrapped/issues/17#issuecomment-3906819404) in [AllardQuek/FPL-Wrapped](https://github.com/AllardQuek/FPL-Wrapped)
-2. ℹ️ Assigned issue [#17](https://github.com/AllardQuek/FPL-Wrapped/issues/17) in [AllardQuek/FPL-Wrapped](https://github.com/AllardQuek/FPL-Wrapped)
-3. ❗ Opened issue [#17](https://github.com/AllardQuek/FPL-Wrapped/issues/17) in [AllardQuek/FPL-Wrapped](https://github.com/AllardQuek/FPL-Wrapped)
-4. 🎉 Merged PR [#16](https://github.com/AllardQuek/FPL-Wrapped/pull/16) in [AllardQuek/FPL-Wrapped](https://github.com/AllardQuek/FPL-Wrapped)
-5. 💪 Opened PR [#16](https://github.com/AllardQuek/FPL-Wrapped/pull/16) in [AllardQuek/FPL-Wrapped](https://github.com/AllardQuek/FPL-Wrapped)
+1. 🎉 Merged PR [#18](https://github.com/AllardQuek/FPL-Wrapped/pull/18) in [AllardQuek/FPL-Wrapped](https://github.com/AllardQuek/FPL-Wrapped)
+2. 💪 Opened PR [#18](https://github.com/AllardQuek/FPL-Wrapped/pull/18) in [AllardQuek/FPL-Wrapped](https://github.com/AllardQuek/FPL-Wrapped)
+3. ℹ️ Assigned PR [#18](https://github.com/AllardQuek/FPL-Wrapped/pull/18) in [AllardQuek/FPL-Wrapped](https://github.com/AllardQuek/FPL-Wrapped)
+4. 🗣 Commented on [#17](https://github.com/AllardQuek/FPL-Wrapped/issues/17#issuecomment-3906819404) in [AllardQuek/FPL-Wrapped](https://github.com/AllardQuek/FPL-Wrapped)
+5. ℹ️ Assigned issue [#17](https://github.com/AllardQuek/FPL-Wrapped/issues/17) in [AllardQuek/FPL-Wrapped](https://github.com/AllardQuek/FPL-Wrapped)
 <!--END_SECTION:activity-->
 
 
