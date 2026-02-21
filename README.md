@@ -77,11 +77,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#25](https://github.com/AllardQuek/FPL-Wrapped/issues/25) in [AllardQuek/FPL-Wrapped](https://github.com/AllardQuek/FPL-Wrapped)
-2. ℹ️ Assigned issue [#25](https://github.com/AllardQuek/FPL-Wrapped/issues/25) in [AllardQuek/FPL-Wrapped](https://github.com/AllardQuek/FPL-Wrapped)
-3. 🔒 Closed issue [#21](https://github.com/AllardQuek/FPL-Wrapped/issues/21) in [AllardQuek/FPL-Wrapped](https://github.com/AllardQuek/FPL-Wrapped)
-4. 🗣 Commented on [#21](https://github.com/AllardQuek/FPL-Wrapped/issues/21#issuecomment-3919132180) in [AllardQuek/FPL-Wrapped](https://github.com/AllardQuek/FPL-Wrapped)
-5. ℹ️ Assigned issue [#24](https://github.com/AllardQuek/FPL-Wrapped/issues/24) in [AllardQuek/FPL-Wrapped](https://github.com/AllardQuek/FPL-Wrapped)
+1. ❌ Closed PR [#614](https://github.com/posquit0/Awesome-CV/pull/614) in [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV)
+2. 💪 Opened PR [#614](https://github.com/posquit0/Awesome-CV/pull/614) in [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV)
+3. ❗ Opened issue [#25](https://github.com/AllardQuek/FPL-Wrapped/issues/25) in [AllardQuek/FPL-Wrapped](https://github.com/AllardQuek/FPL-Wrapped)
+4. ℹ️ Assigned issue [#25](https://github.com/AllardQuek/FPL-Wrapped/issues/25) in [AllardQuek/FPL-Wrapped](https://github.com/AllardQuek/FPL-Wrapped)
+5. 🔒 Closed issue [#21](https://github.com/AllardQuek/FPL-Wrapped/issues/21) in [AllardQuek/FPL-Wrapped](https://github.com/AllardQuek/FPL-Wrapped)
 <!--END_SECTION:activity-->
 
 
