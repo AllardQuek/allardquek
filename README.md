@@ -77,11 +77,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#614](https://github.com/posquit0/Awesome-CV/pull/614) in [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV)
-2. 💪 Opened PR [#614](https://github.com/posquit0/Awesome-CV/pull/614) in [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV)
-3. ❗ Opened issue [#25](https://github.com/AllardQuek/FPL-Wrapped/issues/25) in [AllardQuek/FPL-Wrapped](https://github.com/AllardQuek/FPL-Wrapped)
-4. ℹ️ Assigned issue [#25](https://github.com/AllardQuek/FPL-Wrapped/issues/25) in [AllardQuek/FPL-Wrapped](https://github.com/AllardQuek/FPL-Wrapped)
-5. 🔒 Closed issue [#21](https://github.com/AllardQuek/FPL-Wrapped/issues/21) in [AllardQuek/FPL-Wrapped](https://github.com/AllardQuek/FPL-Wrapped)
+1. ❗ Opened issue [#3](https://github.com/AllardQuek/multi-lingual-word-widget/issues/3) in [AllardQuek/multi-lingual-word-widget](https://github.com/AllardQuek/multi-lingual-word-widget)
+2. ℹ️ Assigned issue [#3](https://github.com/AllardQuek/multi-lingual-word-widget/issues/3) in [AllardQuek/multi-lingual-word-widget](https://github.com/AllardQuek/multi-lingual-word-widget)
+3. ℹ️ Assigned issue [#2](https://github.com/AllardQuek/multi-lingual-word-widget/issues/2) in [AllardQuek/multi-lingual-word-widget](https://github.com/AllardQuek/multi-lingual-word-widget)
+4. ❗ Opened issue [#2](https://github.com/AllardQuek/multi-lingual-word-widget/issues/2) in [AllardQuek/multi-lingual-word-widget](https://github.com/AllardQuek/multi-lingual-word-widget)
+5. ❗ Opened issue [#1](https://github.com/AllardQuek/multi-lingual-word-widget/issues/1) in [AllardQuek/multi-lingual-word-widget](https://github.com/AllardQuek/multi-lingual-word-widget)
 <!--END_SECTION:activity-->
 
 
