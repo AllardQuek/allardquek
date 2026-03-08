@@ -77,11 +77,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#26](https://github.com/AllardQuek/FPL-Wrapped/issues/26) in [AllardQuek/FPL-Wrapped](https://github.com/AllardQuek/FPL-Wrapped)
-2. ❗ Opened issue [#26](https://github.com/AllardQuek/FPL-Wrapped/issues/26) in [AllardQuek/FPL-Wrapped](https://github.com/AllardQuek/FPL-Wrapped)
-3. 🗣 Commented on [#1](https://github.com/AllardQuek/multi-lingual-word-widget/issues/1#issuecomment-3997954483) in [AllardQuek/multi-lingual-word-widget](https://github.com/AllardQuek/multi-lingual-word-widget)
-4. 🔒 Closed issue [#1](https://github.com/AllardQuek/multi-lingual-word-widget/issues/1) in [AllardQuek/multi-lingual-word-widget](https://github.com/AllardQuek/multi-lingual-word-widget)
-5. 🔒 Closed issue [#2](https://github.com/AllardQuek/multi-lingual-word-widget/issues/2) in [AllardQuek/multi-lingual-word-widget](https://github.com/AllardQuek/multi-lingual-word-widget)
+1. ❗ Opened issue [#3](https://github.com/AllardQuek/Hearsay-Lyrics/issues/3) in [AllardQuek/Hearsay-Lyrics](https://github.com/AllardQuek/Hearsay-Lyrics)
+2. ❗ Opened issue [#2](https://github.com/AllardQuek/Hearsay-Lyrics/issues/2) in [AllardQuek/Hearsay-Lyrics](https://github.com/AllardQuek/Hearsay-Lyrics)
+3. ❗ Opened issue [#1](https://github.com/AllardQuek/Hearsay-Lyrics/issues/1) in [AllardQuek/Hearsay-Lyrics](https://github.com/AllardQuek/Hearsay-Lyrics)
+4. ℹ️ Labeled issue [#26](https://github.com/AllardQuek/FPL-Wrapped/issues/26) in [AllardQuek/FPL-Wrapped](https://github.com/AllardQuek/FPL-Wrapped)
+5. ❗ Opened issue [#26](https://github.com/AllardQuek/FPL-Wrapped/issues/26) in [AllardQuek/FPL-Wrapped](https://github.com/AllardQuek/FPL-Wrapped)
 <!--END_SECTION:activity-->
 
 
