@@ -77,11 +77,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#1](https://github.com/AllardQuek/Hearsay-Lyrics/issues/1) in [AllardQuek/Hearsay-Lyrics](https://github.com/AllardQuek/Hearsay-Lyrics)
-2. ❗ Opened issue [#5](https://github.com/AllardQuek/Hearsay-Lyrics/issues/5) in [AllardQuek/Hearsay-Lyrics](https://github.com/AllardQuek/Hearsay-Lyrics)
-3. ❗ Opened issue [#4](https://github.com/AllardQuek/Hearsay-Lyrics/issues/4) in [AllardQuek/Hearsay-Lyrics](https://github.com/AllardQuek/Hearsay-Lyrics)
-4. 🗣 Commented on [#182](https://github.com/ChromeDevTools/chrome-devtools-mcp/issues/182#issuecomment-4174274165) in [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
-5. 🗣 Commented on [#182](https://github.com/ChromeDevTools/chrome-devtools-mcp/issues/182#issuecomment-4172345351) in [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+1. 🔒 Closed issue [#4](https://github.com/AllardQuek/Hearsay-Lyrics/issues/4) in [AllardQuek/Hearsay-Lyrics](https://github.com/AllardQuek/Hearsay-Lyrics)
+2. ℹ️ Assigned issue [#1](https://github.com/AllardQuek/Hearsay-Lyrics/issues/1) in [AllardQuek/Hearsay-Lyrics](https://github.com/AllardQuek/Hearsay-Lyrics)
+3. ❗ Opened issue [#5](https://github.com/AllardQuek/Hearsay-Lyrics/issues/5) in [AllardQuek/Hearsay-Lyrics](https://github.com/AllardQuek/Hearsay-Lyrics)
+4. ❗ Opened issue [#4](https://github.com/AllardQuek/Hearsay-Lyrics/issues/4) in [AllardQuek/Hearsay-Lyrics](https://github.com/AllardQuek/Hearsay-Lyrics)
+5. 🗣 Commented on [#182](https://github.com/ChromeDevTools/chrome-devtools-mcp/issues/182#issuecomment-4174274165) in [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 <!--END_SECTION:activity-->
 
 
