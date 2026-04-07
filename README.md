@@ -77,11 +77,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/AllardQuek/multi-lingual-word-widget/pull/16) in [AllardQuek/multi-lingual-word-widget](https://github.com/AllardQuek/multi-lingual-word-widget)
-2. 💪 Opened PR [#16](https://github.com/AllardQuek/multi-lingual-word-widget/pull/16) in [AllardQuek/multi-lingual-word-widget](https://github.com/AllardQuek/multi-lingual-word-widget)
-3. ℹ️ Assigned PR [#16](https://github.com/AllardQuek/multi-lingual-word-widget/pull/16) in [AllardQuek/multi-lingual-word-widget](https://github.com/AllardQuek/multi-lingual-word-widget)
+1. ℹ️ Labeled issue [#17](https://github.com/AllardQuek/multi-lingual-word-widget/issues/17) in [AllardQuek/multi-lingual-word-widget](https://github.com/AllardQuek/multi-lingual-word-widget)
+2. ℹ️ Labeled issue [#17](https://github.com/AllardQuek/multi-lingual-word-widget/issues/17) in [AllardQuek/multi-lingual-word-widget](https://github.com/AllardQuek/multi-lingual-word-widget)
+3. ❗ Opened issue [#17](https://github.com/AllardQuek/multi-lingual-word-widget/issues/17) in [AllardQuek/multi-lingual-word-widget](https://github.com/AllardQuek/multi-lingual-word-widget)
 4. ℹ️ Labeled issue [#7](https://github.com/AllardQuek/multi-lingual-word-widget/issues/7) in [AllardQuek/multi-lingual-word-widget](https://github.com/AllardQuek/multi-lingual-word-widget)
-5. ℹ️ Unlabeled issue [#7](https://github.com/AllardQuek/multi-lingual-word-widget/issues/7) in [AllardQuek/multi-lingual-word-widget](https://github.com/AllardQuek/multi-lingual-word-widget)
+5. ℹ️ Labeled issue [#6](https://github.com/AllardQuek/multi-lingual-word-widget/issues/6) in [AllardQuek/multi-lingual-word-widget](https://github.com/AllardQuek/multi-lingual-word-widget)
 <!--END_SECTION:activity-->
 
 
