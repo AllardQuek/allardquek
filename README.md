@@ -77,11 +77,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#4](https://github.com/AllardQuek/Hearsay-Lyrics/issues/4) in [AllardQuek/Hearsay-Lyrics](https://github.com/AllardQuek/Hearsay-Lyrics)
-2. ℹ️ Assigned issue [#1](https://github.com/AllardQuek/Hearsay-Lyrics/issues/1) in [AllardQuek/Hearsay-Lyrics](https://github.com/AllardQuek/Hearsay-Lyrics)
-3. ❗ Opened issue [#5](https://github.com/AllardQuek/Hearsay-Lyrics/issues/5) in [AllardQuek/Hearsay-Lyrics](https://github.com/AllardQuek/Hearsay-Lyrics)
-4. ❗ Opened issue [#4](https://github.com/AllardQuek/Hearsay-Lyrics/issues/4) in [AllardQuek/Hearsay-Lyrics](https://github.com/AllardQuek/Hearsay-Lyrics)
-5. 🗣 Commented on [#182](https://github.com/ChromeDevTools/chrome-devtools-mcp/issues/182#issuecomment-4174274165) in [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+1. 🔒 Closed issue [#13](https://github.com/AllardQuek/multi-lingual-word-widget/issues/13) in [AllardQuek/multi-lingual-word-widget](https://github.com/AllardQuek/multi-lingual-word-widget)
+2. 🗣 Commented on [#13](https://github.com/AllardQuek/multi-lingual-word-widget/issues/13#issuecomment-4195993637) in [AllardQuek/multi-lingual-word-widget](https://github.com/AllardQuek/multi-lingual-word-widget)
+3. 🗣 Commented on [#13](https://github.com/AllardQuek/multi-lingual-word-widget/issues/13#issuecomment-4195992596) in [AllardQuek/multi-lingual-word-widget](https://github.com/AllardQuek/multi-lingual-word-widget)
+4. ℹ️ Labeled issue [#13](https://github.com/AllardQuek/multi-lingual-word-widget/issues/13) in [AllardQuek/multi-lingual-word-widget](https://github.com/AllardQuek/multi-lingual-word-widget)
+5. ℹ️ Labeled issue [#13](https://github.com/AllardQuek/multi-lingual-word-widget/issues/13) in [AllardQuek/multi-lingual-word-widget](https://github.com/AllardQuek/multi-lingual-word-widget)
 <!--END_SECTION:activity-->
 
 
