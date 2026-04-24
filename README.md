@@ -77,11 +77,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15294](https://github.com/NousResearch/hermes-agent/pull/15294#issuecomment-4315486531) in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
-2. 💪 Opened PR [#15294](https://github.com/NousResearch/hermes-agent/pull/15294) in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
-3. 🗣 Commented on [#13903](https://github.com/NousResearch/hermes-agent/pull/13903#issuecomment-4305856750) in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
-4. ❗ Opened issue [#14618](https://github.com/NousResearch/hermes-agent/issues/14618) in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
-5. 🗣 Commented on [#13887](https://github.com/NousResearch/hermes-agent/issues/13887#issuecomment-4305659756) in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+1. 🎉 Merged PR [#15294](https://github.com/NousResearch/hermes-agent/pull/15294) in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+2. 🗣 Commented on [#15294](https://github.com/NousResearch/hermes-agent/pull/15294#issuecomment-4315486531) in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+3. 💪 Opened PR [#15294](https://github.com/NousResearch/hermes-agent/pull/15294) in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+4. 🗣 Commented on [#13903](https://github.com/NousResearch/hermes-agent/pull/13903#issuecomment-4305856750) in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+5. ❗ Opened issue [#14618](https://github.com/NousResearch/hermes-agent/issues/14618) in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
 <!--END_SECTION:activity-->
 
 
