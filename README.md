@@ -77,11 +77,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#18725](https://github.com/NousResearch/hermes-agent/pull/18725) in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
-2. ❌ Closed PR [#1](https://github.com/AllardQuek/hermes-agent/pull/1) in [AllardQuek/hermes-agent](https://github.com/AllardQuek/hermes-agent)
-3. 💪 Opened PR [#1](https://github.com/AllardQuek/hermes-agent/pull/1) in [AllardQuek/hermes-agent](https://github.com/AllardQuek/hermes-agent)
-4. ℹ️ Assigned PR [#1](https://github.com/AllardQuek/hermes-agent/pull/1) in [AllardQuek/hermes-agent](https://github.com/AllardQuek/hermes-agent)
-5. 🎉 Merged PR [#3](https://github.com/AllardQuek/allardquek.github.io/pull/3) in [AllardQuek/allardquek.github.io](https://github.com/AllardQuek/allardquek.github.io)
+1. ❌ Closed PR [#18725](https://github.com/NousResearch/hermes-agent/pull/18725) in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+2. 💪 Opened PR [#2](https://github.com/AllardQuek/hermes-agent/pull/2) in [AllardQuek/hermes-agent](https://github.com/AllardQuek/hermes-agent)
+3. ℹ️ Assigned PR [#2](https://github.com/AllardQuek/hermes-agent/pull/2) in [AllardQuek/hermes-agent](https://github.com/AllardQuek/hermes-agent)
+4. 💪 Opened PR [#18725](https://github.com/NousResearch/hermes-agent/pull/18725) in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+5. ❌ Closed PR [#1](https://github.com/AllardQuek/hermes-agent/pull/1) in [AllardQuek/hermes-agent](https://github.com/AllardQuek/hermes-agent)
 <!--END_SECTION:activity-->
 
 
