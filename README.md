@@ -77,11 +77,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/AllardQuek/hermes-agent/pull/1) in [AllardQuek/hermes-agent](https://github.com/AllardQuek/hermes-agent)
-2. 💪 Opened PR [#1](https://github.com/AllardQuek/hermes-agent/pull/1) in [AllardQuek/hermes-agent](https://github.com/AllardQuek/hermes-agent)
-3. ℹ️ Assigned PR [#1](https://github.com/AllardQuek/hermes-agent/pull/1) in [AllardQuek/hermes-agent](https://github.com/AllardQuek/hermes-agent)
-4. 🎉 Merged PR [#3](https://github.com/AllardQuek/allardquek.github.io/pull/3) in [AllardQuek/allardquek.github.io](https://github.com/AllardQuek/allardquek.github.io)
-5. 🗣 Commented on [#18196](https://github.com/NousResearch/hermes-agent/pull/18196#issuecomment-4357900681) in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+1. 💪 Opened PR [#18725](https://github.com/NousResearch/hermes-agent/pull/18725) in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+2. ❌ Closed PR [#1](https://github.com/AllardQuek/hermes-agent/pull/1) in [AllardQuek/hermes-agent](https://github.com/AllardQuek/hermes-agent)
+3. 💪 Opened PR [#1](https://github.com/AllardQuek/hermes-agent/pull/1) in [AllardQuek/hermes-agent](https://github.com/AllardQuek/hermes-agent)
+4. ℹ️ Assigned PR [#1](https://github.com/AllardQuek/hermes-agent/pull/1) in [AllardQuek/hermes-agent](https://github.com/AllardQuek/hermes-agent)
+5. 🎉 Merged PR [#3](https://github.com/AllardQuek/allardquek.github.io/pull/3) in [AllardQuek/allardquek.github.io](https://github.com/AllardQuek/allardquek.github.io)
 <!--END_SECTION:activity-->
 
 
