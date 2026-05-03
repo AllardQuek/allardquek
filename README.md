@@ -77,11 +77,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#18725](https://github.com/NousResearch/hermes-agent/pull/18725) in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
-2. 💪 Opened PR [#2](https://github.com/AllardQuek/hermes-agent/pull/2) in [AllardQuek/hermes-agent](https://github.com/AllardQuek/hermes-agent)
-3. ℹ️ Assigned PR [#2](https://github.com/AllardQuek/hermes-agent/pull/2) in [AllardQuek/hermes-agent](https://github.com/AllardQuek/hermes-agent)
-4. 💪 Opened PR [#18725](https://github.com/NousResearch/hermes-agent/pull/18725) in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
-5. ❌ Closed PR [#1](https://github.com/AllardQuek/hermes-agent/pull/1) in [AllardQuek/hermes-agent](https://github.com/AllardQuek/hermes-agent)
+1. 💪 Opened PR [#19256](https://github.com/NousResearch/hermes-agent/pull/19256) in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+2. ❗ Opened issue [#19255](https://github.com/NousResearch/hermes-agent/issues/19255) in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+3. 🗣 Commented on [#14160](https://github.com/NousResearch/hermes-agent/issues/14160#issuecomment-4366365819) in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+4. ❌ Closed PR [#18725](https://github.com/NousResearch/hermes-agent/pull/18725) in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+5. 💪 Opened PR [#2](https://github.com/AllardQuek/hermes-agent/pull/2) in [AllardQuek/hermes-agent](https://github.com/AllardQuek/hermes-agent)
 <!--END_SECTION:activity-->
 
 
