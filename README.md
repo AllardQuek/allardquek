@@ -77,11 +77,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14160](https://github.com/NousResearch/hermes-agent/issues/14160#issuecomment-4395675796) in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
-2. ℹ️ Labeled issue [#3](https://github.com/AllardQuek/expense-tracker-plugin/issues/3) in [AllardQuek/expense-tracker-plugin](https://github.com/AllardQuek/expense-tracker-plugin)
-3. ℹ️ Labeled issue [#2](https://github.com/AllardQuek/expense-tracker-plugin/issues/2) in [AllardQuek/expense-tracker-plugin](https://github.com/AllardQuek/expense-tracker-plugin)
-4. ℹ️ Labeled issue [#4](https://github.com/AllardQuek/expense-tracker-plugin/issues/4) in [AllardQuek/expense-tracker-plugin](https://github.com/AllardQuek/expense-tracker-plugin)
-5. ❗ Opened issue [#4](https://github.com/AllardQuek/expense-tracker-plugin/issues/4) in [AllardQuek/expense-tracker-plugin](https://github.com/AllardQuek/expense-tracker-plugin)
+1. ℹ️ Labeled issue [#6](https://github.com/AllardQuek/expense-tracker-plugin/issues/6) in [AllardQuek/expense-tracker-plugin](https://github.com/AllardQuek/expense-tracker-plugin)
+2. ❗ Opened issue [#6](https://github.com/AllardQuek/expense-tracker-plugin/issues/6) in [AllardQuek/expense-tracker-plugin](https://github.com/AllardQuek/expense-tracker-plugin)
+3. ℹ️ Labeled issue [#5](https://github.com/AllardQuek/expense-tracker-plugin/issues/5) in [AllardQuek/expense-tracker-plugin](https://github.com/AllardQuek/expense-tracker-plugin)
+4. ❗ Opened issue [#5](https://github.com/AllardQuek/expense-tracker-plugin/issues/5) in [AllardQuek/expense-tracker-plugin](https://github.com/AllardQuek/expense-tracker-plugin)
+5. 🗣 Commented on [#14160](https://github.com/NousResearch/hermes-agent/issues/14160#issuecomment-4395675796) in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
 <!--END_SECTION:activity-->
 
 
