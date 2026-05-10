@@ -77,11 +77,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#7](https://github.com/AllardQuek/expense-tracker-plugin/issues/7) in [AllardQuek/expense-tracker-plugin](https://github.com/AllardQuek/expense-tracker-plugin)
-2. ℹ️ Labeled issue [#6](https://github.com/AllardQuek/expense-tracker-plugin/issues/6) in [AllardQuek/expense-tracker-plugin](https://github.com/AllardQuek/expense-tracker-plugin)
-3. ❗ Opened issue [#6](https://github.com/AllardQuek/expense-tracker-plugin/issues/6) in [AllardQuek/expense-tracker-plugin](https://github.com/AllardQuek/expense-tracker-plugin)
-4. ℹ️ Labeled issue [#5](https://github.com/AllardQuek/expense-tracker-plugin/issues/5) in [AllardQuek/expense-tracker-plugin](https://github.com/AllardQuek/expense-tracker-plugin)
-5. ❗ Opened issue [#5](https://github.com/AllardQuek/expense-tracker-plugin/issues/5) in [AllardQuek/expense-tracker-plugin](https://github.com/AllardQuek/expense-tracker-plugin)
+1. ❗ Opened issue [#9](https://github.com/AllardQuek/expense-tracker-plugin/issues/9) in [AllardQuek/expense-tracker-plugin](https://github.com/AllardQuek/expense-tracker-plugin)
+2. ❗ Opened issue [#8](https://github.com/AllardQuek/expense-tracker-plugin/issues/8) in [AllardQuek/expense-tracker-plugin](https://github.com/AllardQuek/expense-tracker-plugin)
+3. ❗ Opened issue [#7](https://github.com/AllardQuek/expense-tracker-plugin/issues/7) in [AllardQuek/expense-tracker-plugin](https://github.com/AllardQuek/expense-tracker-plugin)
+4. ℹ️ Labeled issue [#6](https://github.com/AllardQuek/expense-tracker-plugin/issues/6) in [AllardQuek/expense-tracker-plugin](https://github.com/AllardQuek/expense-tracker-plugin)
+5. ❗ Opened issue [#6](https://github.com/AllardQuek/expense-tracker-plugin/issues/6) in [AllardQuek/expense-tracker-plugin](https://github.com/AllardQuek/expense-tracker-plugin)
 <!--END_SECTION:activity-->
 
 
