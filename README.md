@@ -77,11 +77,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/AllardQuek/hermes-agent/pull/2) in [AllardQuek/hermes-agent](https://github.com/AllardQuek/hermes-agent)
-2. ❗ Opened issue [#10](https://github.com/AllardQuek/expense-tracker-plugin/issues/10) in [AllardQuek/expense-tracker-plugin](https://github.com/AllardQuek/expense-tracker-plugin)
-3. ❗ Opened issue [#9](https://github.com/AllardQuek/expense-tracker-plugin/issues/9) in [AllardQuek/expense-tracker-plugin](https://github.com/AllardQuek/expense-tracker-plugin)
-4. ❗ Opened issue [#8](https://github.com/AllardQuek/expense-tracker-plugin/issues/8) in [AllardQuek/expense-tracker-plugin](https://github.com/AllardQuek/expense-tracker-plugin)
-5. ❗ Opened issue [#7](https://github.com/AllardQuek/expense-tracker-plugin/issues/7) in [AllardQuek/expense-tracker-plugin](https://github.com/AllardQuek/expense-tracker-plugin)
+1. ❗ Opened issue [#6](https://github.com/AllardQuek/rental-room-rater/issues/6) in [AllardQuek/rental-room-rater](https://github.com/AllardQuek/rental-room-rater)
+2. ❗ Opened issue [#5](https://github.com/AllardQuek/rental-room-rater/issues/5) in [AllardQuek/rental-room-rater](https://github.com/AllardQuek/rental-room-rater)
+3. ❗ Opened issue [#4](https://github.com/AllardQuek/rental-room-rater/issues/4) in [AllardQuek/rental-room-rater](https://github.com/AllardQuek/rental-room-rater)
+4. 🔓 Reopened issue [#2](https://github.com/AllardQuek/rental-room-rater/issues/2) in [AllardQuek/rental-room-rater](https://github.com/AllardQuek/rental-room-rater)
+5. 🔒 Closed issue [#2](https://github.com/AllardQuek/rental-room-rater/issues/2) in [AllardQuek/rental-room-rater](https://github.com/AllardQuek/rental-room-rater)
 <!--END_SECTION:activity-->
 
 
