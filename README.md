@@ -77,11 +77,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/AllardQuek/rental-room-rater/issues/6#issuecomment-4655175749) in [AllardQuek/rental-room-rater](https://github.com/AllardQuek/rental-room-rater)
-2. 🔒 Closed issue [#7](https://github.com/AllardQuek/rental-room-rater/issues/7) in [AllardQuek/rental-room-rater](https://github.com/AllardQuek/rental-room-rater)
-3. 🔒 Closed issue [#3](https://github.com/AllardQuek/rental-room-rater/issues/3) in [AllardQuek/rental-room-rater](https://github.com/AllardQuek/rental-room-rater)
-4. 🔒 Closed issue [#1](https://github.com/AllardQuek/rental-room-rater/issues/1) in [AllardQuek/rental-room-rater](https://github.com/AllardQuek/rental-room-rater)
-5. ❗ Opened issue [#7](https://github.com/AllardQuek/rental-room-rater/issues/7) in [AllardQuek/rental-room-rater](https://github.com/AllardQuek/rental-room-rater)
+1. 💪 Opened PR [#8](https://github.com/AllardQuek/rental-room-rater/pull/8) in [AllardQuek/rental-room-rater](https://github.com/AllardQuek/rental-room-rater)
+2. ℹ️ Assigned PR [#8](https://github.com/AllardQuek/rental-room-rater/pull/8) in [AllardQuek/rental-room-rater](https://github.com/AllardQuek/rental-room-rater)
+3. 🗣 Commented on [#6](https://github.com/AllardQuek/rental-room-rater/issues/6#issuecomment-4655175749) in [AllardQuek/rental-room-rater](https://github.com/AllardQuek/rental-room-rater)
+4. 🔒 Closed issue [#7](https://github.com/AllardQuek/rental-room-rater/issues/7) in [AllardQuek/rental-room-rater](https://github.com/AllardQuek/rental-room-rater)
+5. 🔒 Closed issue [#3](https://github.com/AllardQuek/rental-room-rater/issues/3) in [AllardQuek/rental-room-rater](https://github.com/AllardQuek/rental-room-rater)
 <!--END_SECTION:activity-->
 
 
