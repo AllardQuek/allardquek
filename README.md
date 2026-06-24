@@ -77,11 +77,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#16](https://github.com/AllardQuek/rental-room-rater/issues/16) in [AllardQuek/rental-room-rater](https://github.com/AllardQuek/rental-room-rater)
-2. ℹ️ Labeled issue [#13](https://github.com/AllardQuek/rental-room-rater/issues/13) in [AllardQuek/rental-room-rater](https://github.com/AllardQuek/rental-room-rater)
-3. ℹ️ Labeled issue [#15](https://github.com/AllardQuek/rental-room-rater/issues/15) in [AllardQuek/rental-room-rater](https://github.com/AllardQuek/rental-room-rater)
-4. ℹ️ Labeled issue [#19](https://github.com/AllardQuek/rental-room-rater/issues/19) in [AllardQuek/rental-room-rater](https://github.com/AllardQuek/rental-room-rater)
-5. ℹ️ Labeled issue [#21](https://github.com/AllardQuek/rental-room-rater/issues/21) in [AllardQuek/rental-room-rater](https://github.com/AllardQuek/rental-room-rater)
+1. 🔒 Closed issue [#16](https://github.com/AllardQuek/jiroom/issues/16) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
+2. ℹ️ Labeled issue [#13](https://github.com/AllardQuek/jiroom/issues/13) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
+3. ℹ️ Labeled issue [#15](https://github.com/AllardQuek/jiroom/issues/15) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
+4. ℹ️ Labeled issue [#19](https://github.com/AllardQuek/jiroom/issues/19) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
+5. ℹ️ Labeled issue [#21](https://github.com/AllardQuek/jiroom/issues/21) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
 <!--END_SECTION:activity-->
 
 
