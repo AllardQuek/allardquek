@@ -77,11 +77,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#17](https://github.com/AllardQuek/jiroom/issues/17) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
-2. 🔒 Closed issue [#16](https://github.com/AllardQuek/jiroom/issues/16) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
-3. ℹ️ Labeled issue [#13](https://github.com/AllardQuek/jiroom/issues/13) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
-4. ℹ️ Labeled issue [#15](https://github.com/AllardQuek/jiroom/issues/15) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
-5. ℹ️ Labeled issue [#19](https://github.com/AllardQuek/jiroom/issues/19) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
+1. 🔒 Closed issue [#14](https://github.com/AllardQuek/jiroom/issues/14) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
+2. 🔒 Closed issue [#17](https://github.com/AllardQuek/jiroom/issues/17) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
+3. 🔒 Closed issue [#16](https://github.com/AllardQuek/jiroom/issues/16) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
+4. ℹ️ Labeled issue [#13](https://github.com/AllardQuek/jiroom/issues/13) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
+5. ℹ️ Labeled issue [#15](https://github.com/AllardQuek/jiroom/issues/15) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
 <!--END_SECTION:activity-->
 
 
