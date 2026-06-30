@@ -77,11 +77,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22](https://github.com/AllardQuek/jiroom/pull/22) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
-2. ℹ️ Assigned PR [#22](https://github.com/AllardQuek/jiroom/pull/22) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
-3. 🗣 Commented on [#975](https://github.com/colbymchenry/codegraph/issues/975#issuecomment-4841709200) in [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
-4. ℹ️ Assigned issue [#16](https://github.com/AllardQuek/jiroom/issues/16) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
-5. ℹ️ Assigned issue [#21](https://github.com/AllardQuek/jiroom/issues/21) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
+1. 🎉 Merged PR [#23](https://github.com/AllardQuek/jiroom/pull/23) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
+2. 💪 Opened PR [#23](https://github.com/AllardQuek/jiroom/pull/23) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
+3. ℹ️ Assigned PR [#23](https://github.com/AllardQuek/jiroom/pull/23) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
+4. 🎉 Merged PR [#22](https://github.com/AllardQuek/jiroom/pull/22) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
+5. 💪 Opened PR [#22](https://github.com/AllardQuek/jiroom/pull/22) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
 <!--END_SECTION:activity-->
 
 
