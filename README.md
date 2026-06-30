@@ -77,7 +77,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v3.0.0 - Internationalization with Simplified Chinese](https://github.com/AllardQuek/jiroom/releases/tag/untagged-8d3ccf1a7d4767a3ed78) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
+1. 🚀 Published release [v3.0.0](https://github.com/AllardQuek/jiroom/releases/tag/v3.0.0) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
 2. 🎉 Merged PR [#24](https://github.com/AllardQuek/jiroom/pull/24) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
 3. 💪 Opened PR [#24](https://github.com/AllardQuek/jiroom/pull/24) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
 4. 🎉 Merged PR [#23](https://github.com/AllardQuek/jiroom/pull/23) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
