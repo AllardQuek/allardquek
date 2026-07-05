@@ -77,11 +77,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#25](https://github.com/AllardQuek/jiroom/pull/25) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
-2. ℹ️ Assigned PR [#25](https://github.com/AllardQuek/jiroom/pull/25) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
-3. 🚀 Published release [v3.0.0](https://github.com/AllardQuek/jiroom/releases/tag/v3.0.0) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
-4. 🎉 Merged PR [#24](https://github.com/AllardQuek/jiroom/pull/24) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
-5. 💪 Opened PR [#24](https://github.com/AllardQuek/jiroom/pull/24) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
+1. 💪 Opened PR [#27](https://github.com/AllardQuek/jiroom/pull/27) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
+2. ℹ️ Assigned PR [#27](https://github.com/AllardQuek/jiroom/pull/27) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
+3. 🎉 Merged PR [#26](https://github.com/AllardQuek/jiroom/pull/26) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
+4. 💪 Opened PR [#26](https://github.com/AllardQuek/jiroom/pull/26) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
+5. ℹ️ Assigned PR [#26](https://github.com/AllardQuek/jiroom/pull/26) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
 <!--END_SECTION:activity-->
 
 
