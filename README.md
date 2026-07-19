@@ -77,11 +77,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/AllardQuek/jiroom/pull/31) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
-2. 💪 Opened PR [#31](https://github.com/AllardQuek/jiroom/pull/31) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
-3. 🗣 Commented on [#13058](https://github.com/NousResearch/hermes-agent/pull/13058#issuecomment-5013615441) in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
-4. ❌ Closed PR [#65218](https://github.com/NousResearch/hermes-agent/pull/65218) in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
-5. 💪 Opened PR [#65218](https://github.com/NousResearch/hermes-agent/pull/65218) in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+1. ❗ Opened issue [#34](https://github.com/AllardQuek/jiroom/issues/34) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
+2. ❗ Opened issue [#33](https://github.com/AllardQuek/jiroom/issues/33) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
+3. ❗ Opened issue [#32](https://github.com/AllardQuek/jiroom/issues/32) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
+4. 🎉 Merged PR [#31](https://github.com/AllardQuek/jiroom/pull/31) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
+5. 💪 Opened PR [#31](https://github.com/AllardQuek/jiroom/pull/31) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
 <!--END_SECTION:activity-->
 
 
