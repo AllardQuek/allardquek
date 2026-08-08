@@ -77,11 +77,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32](https://github.com/AllardQuek/jiroom/issues/32#issuecomment-5226042150) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
-2. 🔒 Closed issue [#32](https://github.com/AllardQuek/jiroom/issues/32) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
-3. 💪 Opened PR [#36](https://github.com/AllardQuek/jiroom/pull/36) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
-4. ❗ Opened issue [#34](https://github.com/AllardQuek/jiroom/issues/34) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
-5. ❗ Opened issue [#33](https://github.com/AllardQuek/jiroom/issues/33) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
+1. 🎉 Merged PR [#36](https://github.com/AllardQuek/jiroom/pull/36) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
+2. 🗣 Commented on [#37](https://github.com/AllardQuek/jiroom/issues/37#issuecomment-5226438154) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
+3. 🔒 Closed issue [#37](https://github.com/AllardQuek/jiroom/issues/37) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
+4. ❗ Opened issue [#37](https://github.com/AllardQuek/jiroom/issues/37) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
+5. 🗣 Commented on [#32](https://github.com/AllardQuek/jiroom/issues/32#issuecomment-5226042150) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
 <!--END_SECTION:activity-->
 
 
