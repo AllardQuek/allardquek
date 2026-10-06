@@ -77,7 +77,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/AllardQuek/rtt-graph/issues/1) in [AllardQuek/rtt-graph](https://github.com/AllardQuek/rtt-graph)
+1. ❗ Opened issue [#3072](https://github.com/kagent-dev/kagent/issues/3072) in [kagent-dev/kagent](https://github.com/kagent-dev/kagent)
 2. 🔒 Closed issue [#38](https://github.com/AllardQuek/jiroom/issues/38) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
 3. ℹ️ Assigned issue [#38](https://github.com/AllardQuek/jiroom/issues/38) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
 4. ℹ️ Assigned issue [#38](https://github.com/AllardQuek/jiroom/issues/38) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
