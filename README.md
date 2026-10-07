@@ -77,9 +77,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3071](https://github.com/kagent-dev/kagent/issues/3071#issuecomment-6014454772) in [kagent-dev/kagent](https://github.com/kagent-dev/kagent)
-2. ❗ Opened issue [#3072](https://github.com/kagent-dev/kagent/issues/3072) in [kagent-dev/kagent](https://github.com/kagent-dev/kagent)
-3. ℹ️ Assigned issue [#38](https://github.com/AllardQuek/jiroom/issues/38) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
+1. ❗ Opened issue [#3083](https://github.com/kagent-dev/kagent/issues/3083) in [kagent-dev/kagent](https://github.com/kagent-dev/kagent)
+2. 🗣 Commented on [#3071](https://github.com/kagent-dev/kagent/issues/3071#issuecomment-6014454772) in [kagent-dev/kagent](https://github.com/kagent-dev/kagent)
+3. ❗ Opened issue [#3072](https://github.com/kagent-dev/kagent/issues/3072) in [kagent-dev/kagent](https://github.com/kagent-dev/kagent)
 4. ℹ️ Assigned issue [#38](https://github.com/AllardQuek/jiroom/issues/38) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
 5. ❗ Opened issue [#38](https://github.com/AllardQuek/jiroom/issues/38) in [AllardQuek/jiroom](https://github.com/AllardQuek/jiroom)
 <!--END_SECTION:activity-->
