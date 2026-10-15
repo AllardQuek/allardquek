@@ -77,11 +77,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#578](https://github.com/kagent-dev/website/pull/578) in [kagent-dev/website](https://github.com/kagent-dev/website)
-2. 🗣 Commented on [#578](https://github.com/kagent-dev/website/pull/578#issuecomment-6152532525) in [kagent-dev/website](https://github.com/kagent-dev/website)
-3. 🎉 Merged PR [#577](https://github.com/kagent-dev/website/pull/577) in [kagent-dev/website](https://github.com/kagent-dev/website)
-4. 🗣 Commented on [#577](https://github.com/kagent-dev/website/pull/577#issuecomment-6136601212) in [kagent-dev/website](https://github.com/kagent-dev/website)
-5. 💪 Opened PR [#578](https://github.com/kagent-dev/website/pull/578) in [kagent-dev/website](https://github.com/kagent-dev/website)
+1. 🗣 Commented on [#2551](https://github.com/kagent-dev/kagent/issues/2551#issuecomment-6183808731) in [kagent-dev/kagent](https://github.com/kagent-dev/kagent)
+2. 🗣 Commented on [#3210](https://github.com/kagent-dev/kagent/issues/3210#issuecomment-6183902216) in [kagent-dev/kagent](https://github.com/kagent-dev/kagent)
+3. 🗣 Commented on [#2618](https://github.com/kagent-dev/kagent/issues/2618#issuecomment-6183688782) in [kagent-dev/kagent](https://github.com/kagent-dev/kagent)
+4. ❗ Opened issue [#3211](https://github.com/kagent-dev/kagent/issues/3211) in [kagent-dev/kagent](https://github.com/kagent-dev/kagent)
+5. ❗ Opened issue [#3210](https://github.com/kagent-dev/kagent/issues/3210) in [kagent-dev/kagent](https://github.com/kagent-dev/kagent)
 <!--END_SECTION:activity-->
 
 
