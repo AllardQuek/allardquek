@@ -77,11 +77,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2551](https://github.com/kagent-dev/kagent/issues/2551#issuecomment-6183808731) in [kagent-dev/kagent](https://github.com/kagent-dev/kagent)
-2. 🗣 Commented on [#3210](https://github.com/kagent-dev/kagent/issues/3210#issuecomment-6183902216) in [kagent-dev/kagent](https://github.com/kagent-dev/kagent)
-3. 🗣 Commented on [#2618](https://github.com/kagent-dev/kagent/issues/2618#issuecomment-6183688782) in [kagent-dev/kagent](https://github.com/kagent-dev/kagent)
-4. ❗ Opened issue [#3211](https://github.com/kagent-dev/kagent/issues/3211) in [kagent-dev/kagent](https://github.com/kagent-dev/kagent)
-5. ❗ Opened issue [#3210](https://github.com/kagent-dev/kagent/issues/3210) in [kagent-dev/kagent](https://github.com/kagent-dev/kagent)
+1. ❗ Opened issue [#3216](https://github.com/kagent-dev/kagent/issues/3216) in [kagent-dev/kagent](https://github.com/kagent-dev/kagent)
+2. ❗ Opened issue [#3215](https://github.com/kagent-dev/kagent/issues/3215) in [kagent-dev/kagent](https://github.com/kagent-dev/kagent)
+3. 🔒 Closed issue [#3215](https://github.com/kagent-dev/kagent/issues/3215) in [kagent-dev/kagent](https://github.com/kagent-dev/kagent)
+4. 🗣 Commented on [#2551](https://github.com/kagent-dev/kagent/issues/2551#issuecomment-6183808731) in [kagent-dev/kagent](https://github.com/kagent-dev/kagent)
+5. 🗣 Commented on [#3210](https://github.com/kagent-dev/kagent/issues/3210#issuecomment-6183902216) in [kagent-dev/kagent](https://github.com/kagent-dev/kagent)
 <!--END_SECTION:activity-->
 
 
